@@ -1,0 +1,366 @@
+﻿id,category,category_JP,category_EN,category_ZH,category_KR,JP,EN,ZH,KR
+1,existence,存在,Existence,存在,존재,今あなたにとって本当に大切なものとは何ですか,What is what truly matters to you right now?,此刻，对你来说，真正重要的东西是什么？,지금 당신에게 진정으로 중요한 것은(는) 무엇인가요?
+2,fear,恐れ,Fear,恐惧,두려움,今日のあなたは恐れにどう向き合いますか,How are you facing fear today?,今天，你要如何面对恐惧？,오늘 당신은 두려움에 어떻게 마주하나요?
+3,release,手放す,Release,放下,놓아줌,あなたは手放せないものから何を学んでいますか,What is what you cannot let go of teaching you?,你放不下的东西正在教会你什么？,놓지 못하는 것은(는) 당신에게 무엇을 가르치고 있나요?
+4,hope,希望,Hope,希望,희망,今のあなたに必要な希望は何ですか,What kind of hope do you need right now?,此刻，你需要怎样的希望？,지금의 당신에게 필요한 희망은(는) 무엇인가요?
+5,relationship,関係,Relationship,关系,관계,あなたの中で静かに浮かぶ思い出す人は誰ですか,Who quietly comes to mind when you think of the person who comes to mind?,当你想到你想起的那个人时，在你心里静静浮现的是谁？,"문득 떠오르는 사람을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 이는 누구인가요?"
+6,gratitude,感謝,Gratitude,感恩,감사,もし少し立ち止まるなら感謝できることをどう見ますか,"If you paused for a moment, how would you look at what you can be grateful for?",如果你稍微停下来，会如何看待你可以感恩的事？,"잠시 멈춘다면, 감사할 수 있는 것을(를) 어떻게 바라보게 될까요?"
+7,reflection,内省,Reflection,反思,성찰,あなたは今の感情を事実として見ていますか それとも解釈として見ていますか,"Are you seeing your feelings right now as fact, or as interpretation?",你看到的你此刻的感受，是事实，还是一种解释？,"당신은 지금의 감정을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+8,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,今のあなたが正直に感じる死は何ですか,What does death honestly feel like to you right now?,此刻，你诚实地感受到的死亡是什么？,지금의 당신이 솔직하게 느끼는 죽음은(는) 무엇인가요?
+9,silence,沈黙,Silence,沉默,침묵,あなたは呼吸を感じていますか それとも見過ごしていますか,"Are you sensing your breath, or passing it by?",你是在感受呼吸，还是正在把它忽略过去？,"당신은 호흡을(를) 느끼고 있나요, 아니면 스쳐 지나가고 있나요?"
+10,identity,自己,Identity,自我,자기,今日のあなたにとってなりつつある自分はどんな存在ですか,What kind of presence is the person you are becoming to you today?,今天，对你来说，你正在成为的自己是怎样的存在？,오늘 당신에게 되어 가는 나은(는) 어떤 존재인가요?
+11,existence,存在,Existence,存在,존재,あなたの心は自分の人生に何を求めていますか,What is your heart asking of your own life?,你的心向你自己的人生在寻求什么？,당신의 마음은 자기 자신의 삶에 무엇을 바라고 있나요?
+12,fear,恐れ,Fear,恐惧,두려움,今のあなたは不安にどんな名前をつけますか,What name would you give to anxiety right now?,此刻，你会给不安取什么名字？,지금의 당신은 불안에 어떤 이름을 붙이고 싶나요?
+13,release,手放す,Release,放下,놓아줌,あなたは執着を誰の視線で見ていますか,Through whose eyes are you seeing attachment?,你正透过谁的目光看着执着？,당신은 집착을(를) 누구의 시선으로 보고 있나요?
+14,hope,希望,Hope,希望,희망,もし静かに座るなら小さな光は何を語りそうですか,"If you sat quietly, what might a small light say?",如果你安静坐下，微小的光似乎会说些什么？,"조용히 앉아 있다면, 작은 빛은(는) 무엇을 말할 것 같나요?"
+15,relationship,関係,Relationship,关系,관계,あなたの中に残っている感謝したい人の灯は何ですか,What small lamp of the person you want to thank still remains within you?,在你心里，仍然留着怎样一盏关于你想感谢的人的灯？,당신 안에는 아직도 감사하고 싶은 사람에 관한 어떤 작은 등불이 남아 있나요?
+16,gratitude,感謝,Gratitude,感恩,감사,今あなたにとって今日の恵みとは何ですか,What is today's blessing to you right now?,此刻，对你来说，今天的恩惠是什么？,지금 당신에게 오늘의 은혜은(는) 무엇인가요?
+17,reflection,内省,Reflection,反思,성찰,今日のあなたは沈黙にどう向き合いますか,How are you facing silence today?,今天，你要如何面对沉默？,오늘 당신은 침묵에 어떻게 마주하나요?
+18,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは最後の日から何を学んでいますか,What is your last day teaching you?,最后一天正在教会你什么？,마지막 날은(는) 당신에게 무엇을 가르치고 있나요?
+19,silence,沈黙,Silence,沉默,침묵,今のあなたに必要な静けさは何ですか,What kind of stillness do you need right now?,此刻，你需要怎样的宁静？,지금의 당신에게 필요한 고요은(는) 무엇인가요?
+20,identity,自己,Identity,自我,자기,あなたの中で静かに浮かぶ本当の自分は何ですか,What quietly rises within you when you think of your true self?,想到真正的自己时，在你心里静静浮现的是什么？,"진짜 나을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+21,existence,存在,Existence,存在,존재,もし少し立ち止まるなら生きる理由をどう見ますか,"If you paused for a moment, how would you look at your reason for living?",如果你稍微停下来，会如何看待你活着的理由？,"잠시 멈춘다면, 살아가는 이유을(를) 어떻게 바라보게 될까요?"
+22,fear,恐れ,Fear,恐惧,두려움,あなたは避けていることを事実として見ていますか それとも解釈として見ていますか,"Are you seeing what you are avoiding as fact, or as interpretation?",你看到的你正在回避的事，是事实，还是一种解释？,"당신은 당신이 피하고 있는 것을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+23,release,手放す,Release,放下,놓아줌,今のあなたが正直に感じる古い役割は何ですか,What does an old role honestly feel like to you right now?,此刻，你诚实地感受到的旧有的角色是什么？,지금의 당신이 솔직하게 느끼는 오래된 역할은(는) 무엇인가요?
+24,hope,希望,Hope,希望,희망,あなたは次の一歩を抱えていますか それとも迎え入れ始めていますか,"Are you carrying the next step, or beginning to welcome it?",你是在背负着下一步，还是开始迎接它？,"당신은 다음 한 걸음을(를) 짊어지고 있나요, 아니면 받아들이기 시작하고 있나요?"
+25,relationship,関係,Relationship,关系,관계,今日のあなたにとって許したい人はどんな存在ですか,What kind of presence is the person you want to forgive to you today?,今天，对你来说，你想原谅的人是怎样的存在？,오늘 당신에게 용서하고 싶은 사람은(는) 어떤 존재인가요?
+26,gratitude,感謝,Gratitude,感恩,감사,あなたの心は受け取った助けに何を求めていますか,What is your heart asking of the help you received?,你的心向你得到的帮助在寻求什么？,당신의 마음은 받은 도움에 무엇을 바라고 있나요?
+27,reflection,内省,Reflection,反思,성찰,今のあなたは心の声にどんな名前をつけますか,What name would you give to the voice of your heart right now?,此刻，你会给你内心的声音取什么名字？,지금의 당신은 마음의 소리에 어떤 이름을 붙이고 싶나요?
+28,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは残したいものを誰の視線で見ていますか,Through whose eyes are you seeing what you want to leave behind?,你正透过谁的目光看着你想留下的东西？,당신은 남기고 싶은 것을(를) 누구의 시선으로 보고 있나요?
+29,silence,沈黙,Silence,沉默,침묵,もし静かに座るなら今ここは何を語りそうですか,"If you sat quietly, what might the here and now say?",如果你安静坐下，此时此地似乎会说些什么？,"조용히 앉아 있다면, 지금 여기은(는) 무엇을 말할 것 같나요?"
+30,identity,自己,Identity,自我,자기,あなたの中に残っている信じているものの灯は何ですか,What small lamp of what you believe in still remains within you?,在你心里，仍然留着怎样一盏关于你所相信的东西的灯？,당신 안에는 아직도 당신이 믿는 것에 관한 어떤 작은 등불이 남아 있나요?
+31,existence,存在,Existence,存在,존재,今あなたにとって今いる場所とは何ですか,What is where you stand now to you right now?,此刻，对你来说，你此刻所站的位置是什么？,지금 당신에게 지금 당신이 서 있는 자리은(는) 무엇인가요?
+32,fear,恐れ,Fear,恐惧,두려움,今日のあなたは失うことにどう向き合いますか,How are you facing the possibility of loss today?,今天，你要如何面对失去这件事？,오늘 당신은 잃는 것에 어떻게 마주하나요?
+33,release,手放す,Release,放下,놓아줌,あなたは重荷から何を学んでいますか,What is a burden teaching you?,负担正在教会你什么？,짐은(는) 당신에게 무엇을 가르치고 있나요?
+34,hope,希望,Hope,希望,희망,今のあなたに必要な信じたい未来は何ですか,What kind of the future you want to believe in do you need right now?,此刻，你需要怎样的你想相信的未来？,지금의 당신에게 필요한 믿고 싶은 미래은(는) 무엇인가요?
+35,relationship,関係,Relationship,关系,관계,あなたの中で静かに浮かぶ守りたい人は誰ですか,Who quietly comes to mind when you think of the person you want to protect?,当你想到你想守护的人时，在你心里静静浮现的是谁？,"지키고 싶은 사람을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 이는 누구인가요?"
+36,gratitude,感謝,Gratitude,感恩,감사,もし少し立ち止まるなら残っている温かさをどう見ますか,"If you paused for a moment, how would you look at the warmth that still remains?",如果你稍微停下来，会如何看待仍然留存的温暖？,"잠시 멈춘다면, 남아 있는 따뜻함을(를) 어떻게 바라보게 될까요?"
+37,reflection,内省,Reflection,反思,성찰,あなたは自分への厳しさを事実として見ていますか それとも解釈として見ていますか,"Are you seeing your harshness toward yourself as fact, or as interpretation?",你看到的你对自己的苛刻，是事实，还是一种解释？,"당신은 자신에게 향한 엄격함을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+38,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,今のあなたが正直に感じる別れは何ですか,What does parting honestly feel like to you right now?,此刻，你诚实地感受到的离别是什么？,지금의 당신이 솔직하게 느끼는 이별은(는) 무엇인가요?
+39,silence,沈黙,Silence,沉默,침묵,あなたは空白を感じていますか それとも見過ごしていますか,"Are you sensing emptiness, or passing it by?",你是在感受空白，还是正在把它忽略过去？,"당신은 공백을(를) 느끼고 있나요, 아니면 스쳐 지나가고 있나요?"
+40,identity,自己,Identity,自我,자기,今日のあなたにとって背負っている役割はどんな存在ですか,What kind of presence is the role you carry to you today?,今天，对你来说，你所背负的角色是怎样的存在？,오늘 당신에게 당신이 짊어진 역할은(는) 어떤 존재인가요?
+41,existence,存在,Existence,存在,존재,あなたの心は本当の望みに何を求めていますか,What is your heart asking of your true desire?,你的心向你真正的愿望在寻求什么？,당신의 마음은 당신의 진정한 바람에 무엇을 바라고 있나요?
+42,fear,恐れ,Fear,恐惧,두려움,今のあなたは人の期待にどんな名前をつけますか,What name would you give to other people's expectations right now?,此刻，你会给他人的期待取什么名字？,지금의 당신은 타인의 기대에 어떤 이름을 붙이고 싶나요?
+43,release,手放す,Release,放下,놓아줌,あなたは後悔を誰の視線で見ていますか,Through whose eyes are you seeing regret?,你正透过谁的目光看着后悔？,당신은 후회을(를) 누구의 시선으로 보고 있나요?
+44,hope,希望,Hope,希望,희망,もし静かに座るならやり直す力は何を語りそうですか,"If you sat quietly, what might the strength to begin again say?",如果你安静坐下，重新开始的力量似乎会说些什么？,"조용히 앉아 있다면, 다시 시작할 힘은(는) 무엇을 말할 것 같나요?"
+45,relationship,関係,Relationship,关系,관계,あなたの中に残っている距離を置くべき関係の灯は何ですか,What small lamp of a relationship that needs distance still remains within you?,在你心里，仍然留着怎样一盏关于需要保持距离的关系的灯？,당신 안에는 아직도 거리를 두어야 할 관계에 관한 어떤 작은 등불이 남아 있나요?
+46,gratitude,感謝,Gratitude,感恩,감사,今あなたにとって小さな幸せとは何ですか,What is a small happiness to you right now?,此刻，对你来说，微小的幸福是什么？,지금 당신에게 작은 행복은(는) 무엇인가요?
+47,reflection,内省,Reflection,反思,성찰,今日のあなたは疲れにどう向き合いますか,How are you facing your fatigue today?,今天，你要如何面对你的疲惫？,오늘 당신은 피로에 어떻게 마주하나요?
+48,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは失った人から何を学んでいますか,What is the person you lost teaching you?,你失去的人正在教会你什么？,잃은 사람은(는) 당신에게 무엇을 가르치고 있나요?
+49,silence,沈黙,Silence,沉默,침묵,今のあなたに必要な一歩手前の答えは何ですか,What kind of the answer just before words do you need right now?,此刻，你需要怎样的话语之前的答案？,지금의 당신에게 필요한 말이 되기 직전의 답은(는) 무엇인가요?
+50,identity,自己,Identity,自我,자기,あなたの中で静かに浮かぶ変わりたい部分は何ですか,What quietly rises within you when you think of the part of you that wants to change?,想到你想改变的那一部分时，在你心里静静浮现的是什么？,"변하고 싶은 부분을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+51,existence,存在,Existence,存在,존재,もし少し立ち止まるなら心の静けさをどう見ますか,"If you paused for a moment, how would you look at the quietness of your heart?",如果你稍微停下来，会如何看待你内心的宁静？,"잠시 멈춘다면, 마음의 고요을(를) 어떻게 바라보게 될까요?"
+52,fear,恐れ,Fear,恐惧,두려움,あなたは失敗を事実として見ていますか それとも解釈として見ていますか,"Are you seeing failure as fact, or as interpretation?",你看到的失败，是事实，还是一种解释？,"당신은 실패을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+53,release,手放す,Release,放下,놓아줌,今のあなたが正直に感じる怒りは何ですか,What does anger honestly feel like to you right now?,此刻，你诚实地感受到的愤怒是什么？,지금의 당신이 솔직하게 느끼는 분노은(는) 무엇인가요?
+54,hope,希望,Hope,希望,희망,あなたは救いを抱えていますか それとも迎え入れ始めていますか,"Are you carrying relief, or beginning to welcome it?",你是在背负着救赎，还是开始迎接它？,"당신은 구원을(를) 짊어지고 있나요, 아니면 받아들이기 시작하고 있나요?"
+55,relationship,関係,Relationship,关系,관계,今日のあなたにとって言えなかった言葉はどんな存在ですか,What kind of presence is the words you could not say to you today?,今天，对你来说，你没能说出口的话是怎样的存在？,오늘 당신에게 말하지 못한 말은(는) 어떤 존재인가요?
+56,gratitude,感謝,Gratitude,感恩,감사,あなたの心は支えに何を求めていますか,What is your heart asking of the support that holds you up?,你的心向支撑你的力量在寻求什么？,당신의 마음은 당신을 지탱하는 것에 무엇을 바라고 있나요?
+57,reflection,内省,Reflection,反思,성찰,今のあなたは本音にどんな名前をつけますか,What name would you give to your true feelings right now?,此刻，你会给你真实的心声取什么名字？,지금의 당신은 본심에 어떤 이름을 붙이고 싶나요?
+58,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは言えなかった感謝を誰の視線で見ていますか,Through whose eyes are you seeing the gratitude you could not say?,你正透过谁的目光看着没能说出口的感谢？,당신은 말하지 못한 감사을(를) 누구의 시선으로 보고 있나요?
+59,silence,沈黙,Silence,沉默,침묵,もし静かに座るなら語らないことは何を語りそうですか,"If you sat quietly, what might what remains unsaid say?",如果你安静坐下，没有说出口的东西似乎会说些什么？,"조용히 앉아 있다면, 말하지 않는 것은(는) 무엇을 말할 것 같나요?"
+60,identity,自己,Identity,自我,자기,あなたの中に残っている守ってきた価値観の灯は何ですか,What small lamp of the values you have protected still remains within you?,在你心里，仍然留着怎样一盏关于你一直守护的价值观的灯？,당신 안에는 아직도 지켜 온 가치관에 관한 어떤 작은 등불이 남아 있나요?
+61,existence,存在,Existence,存在,존재,今あなたにとって進む方向とは何ですか,What is the direction you are heading to you right now?,此刻，对你来说，你前行的方向是什么？,지금 당신에게 나아갈 방향은(는) 무엇인가요?
+62,fear,恐れ,Fear,恐惧,두려움,今日のあなたは孤独にどう向き合いますか,How are you facing loneliness today?,今天，你要如何面对孤独？,오늘 당신은 외로움에 어떻게 마주하나요?
+63,release,手放す,Release,放下,놓아줌,あなたは言い訳から何を学んでいますか,What is an excuse teaching you?,借口正在教会你什么？,변명은(는) 당신에게 무엇을 가르치고 있나요?
+64,hope,希望,Hope,希望,희망,今のあなたに必要な明日は何ですか,What kind of tomorrow do you need right now?,此刻，你需要怎样的明天？,지금의 당신에게 필요한 내일은(는) 무엇인가요?
+65,relationship,関係,Relationship,关系,관계,あなたの中で静かに浮かぶ受け取った優しさは何ですか,What quietly comes to mind when you think of the kindness you received?,想到你收到的温柔时，在你心里静静浮现的是什么？,"받았던 다정함을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+66,gratitude,感謝,Gratitude,感恩,감사,もし少し立ち止まるなら平凡な奇跡をどう見ますか,"If you paused for a moment, how would you look at an ordinary miracle?",如果你稍微停下来，会如何看待平凡的奇迹？,"잠시 멈춘다면, 평범한 기적을(를) 어떻게 바라보게 될까요?"
+67,reflection,内省,Reflection,反思,성찰,あなたは選択を事実として見ていますか それとも解釈として見ていますか,"Are you seeing a choice as fact, or as interpretation?",你看到的选择，是事实，还是一种解释？,"당신은 선택을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+68,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,今のあなたが正直に感じる限りある時間は何ですか,What does limited time honestly feel like to you right now?,此刻，你诚实地感受到的有限的时间是什么？,지금의 당신이 솔직하게 느끼는 유한한 시간은(는) 무엇인가요?
+69,silence,沈黙,Silence,沉默,침묵,あなたは待つことを感じていますか それとも見過ごしていますか,"Are you sensing waiting, or passing it by?",你是在感受等待，还是正在把它忽略过去？,"당신은 기다림을(를) 느끼고 있나요, 아니면 스쳐 지나가고 있나요?"
+70,identity,自己,Identity,自我,자기,今日のあなたにとって譲れないものはどんな存在ですか,What kind of presence is what you cannot compromise on to you today?,今天，对你来说，你无法让步的东西是怎样的存在？,오늘 당신에게 양보할 수 없는 것은(는) 어떤 존재인가요?
+71,existence,存在,Existence,存在,존재,あなたの心は今日という時間に何を求めていますか,What is your heart asking of this day?,你的心向今天这段时间在寻求什么？,당신의 마음은 오늘이라는 시간에 무엇을 바라고 있나요?
+72,fear,恐れ,Fear,恐惧,두려움,今のあなたは変化にどんな名前をつけますか,What name would you give to change right now?,此刻，你会给变化取什么名字？,지금의 당신은 변화에 어떤 이름을 붙이고 싶나요?
+73,release,手放す,Release,放下,놓아줌,あなたは終わらせるべきことを誰の視線で見ていますか,Through whose eyes are you seeing what needs to come to an end?,你正透过谁的目光看着应该结束的事？,당신은 끝내야 할 것을(를) 누구의 시선으로 보고 있나요?
+74,hope,希望,Hope,希望,희망,もし静かに座るなら続ける理由は何を語りそうですか,"If you sat quietly, what might your reason to continue say?",如果你安静坐下，继续下去的理由似乎会说些什么？,"조용히 앉아 있다면, 계속할 이유은(는) 무엇을 말할 것 같나요?"
+75,relationship,関係,Relationship,关系,관계,あなたの中に残っている残っているつながりの灯は何ですか,What small lamp of the connection that still remains still remains within you?,在你心里，仍然留着怎样一盏关于仍然留下的连结的灯？,당신 안에는 아직도 아직 남아 있는 연결에 관한 어떤 작은 등불이 남아 있나요?
+76,gratitude,感謝,Gratitude,感恩,감사,今あなたにとって今あるものとは何ですか,What is what is already here to you right now?,此刻，对你来说，此刻已经拥有的东西是什么？,지금 당신에게 지금 이미 있는 것은(는) 무엇인가요?
+77,reflection,内省,Reflection,反思,성찰,今日のあなたは気づいていない思いにどう向き合いますか,How are you facing a feeling you have not yet noticed today?,今天，你要如何面对你尚未察觉的心意？,오늘 당신은 아직 알아차리지 못한 마음에 어떻게 마주하나요?
+78,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたはいのちから何を学んでいますか,What is life itself teaching you?,生命正在教会你什么？,생명은(는) 당신에게 무엇을 가르치고 있나요?
+79,silence,沈黙,Silence,沉默,침묵,今のあなたに必要な見ることは何ですか,What kind of simply seeing do you need right now?,此刻，你需要怎样的只是看见？,지금의 당신에게 필요한 그저 보는 것은(는) 무엇인가요?
+80,identity,自己,Identity,自我,자기,あなたの中で静かに浮かぶ人生の軸は何ですか,What quietly rises within you when you think of the axis of your life?,想到你人生的轴心时，在你心里静静浮现的是什么？,"삶의 축을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+81,existence,存在,Existence,存在,존재,もし少し立ち止まるなら本当に大切なものをどう見ますか,"If you paused for a moment, how would you look at what truly matters?",如果你稍微停下来，会如何看待真正重要的东西？,"잠시 멈춘다면, 진정으로 중요한 것을(를) 어떻게 바라보게 될까요?"
+82,fear,恐れ,Fear,恐惧,두려움,あなたは恐れを事実として見ていますか それとも解釈として見ていますか,"Are you seeing fear as fact, or as interpretation?",你看到的恐惧，是事实，还是一种解释？,"당신은 두려움을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+83,release,手放す,Release,放下,놓아줌,今のあなたが正直に感じる手放せないものは何ですか,What does what you cannot let go of honestly feel like to you right now?,此刻，你诚实地感受到的你放不下的东西是什么？,지금의 당신이 솔직하게 느끼는 놓지 못하는 것은(는) 무엇인가요?
+84,hope,希望,Hope,希望,희망,あなたは希望を抱えていますか それとも迎え入れ始めていますか,"Are you carrying hope, or beginning to welcome it?",你是在背负着希望，还是开始迎接它？,"당신은 희망을(를) 짊어지고 있나요, 아니면 받아들이기 시작하고 있나요?"
+85,relationship,関係,Relationship,关系,관계,今日のあなたにとって思い出す人はどんな存在ですか,What kind of presence is the person who comes to mind to you today?,今天，对你来说，你想起的那个人是怎样的存在？,오늘 당신에게 문득 떠오르는 사람은(는) 어떤 존재인가요?
+86,gratitude,感謝,Gratitude,感恩,감사,あなたの心は感謝できることに何を求めていますか,What is your heart asking of what you can be grateful for?,你的心向你可以感恩的事在寻求什么？,당신의 마음은 감사할 수 있는 것에 무엇을 바라고 있나요?
+87,reflection,内省,Reflection,反思,성찰,今のあなたは今の感情にどんな名前をつけますか,What name would you give to your feelings right now right now?,此刻，你会给你此刻的感受取什么名字？,지금의 당신은 지금의 감정에 어떤 이름을 붙이고 싶나요?
+88,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは死を誰の視線で見ていますか,Through whose eyes are you seeing death?,你正透过谁的目光看着死亡？,당신은 죽음을(를) 누구의 시선으로 보고 있나요?
+89,silence,沈黙,Silence,沉默,침묵,もし静かに座るなら呼吸は何を語りそうですか,"If you sat quietly, what might your breath say?",如果你安静坐下，呼吸似乎会说些什么？,"조용히 앉아 있다면, 호흡은(는) 무엇을 말할 것 같나요?"
+90,identity,自己,Identity,自我,자기,あなたの中に残っているなりつつある自分の灯は何ですか,What small lamp of the person you are becoming still remains within you?,在你心里，仍然留着怎样一盏关于你正在成为的自己的灯？,당신 안에는 아직도 되어 가는 나에 관한 어떤 작은 등불이 남아 있나요?
+91,existence,存在,Existence,存在,존재,今あなたにとって自分の人生とは何ですか,What is your own life to you right now?,此刻，对你来说，你自己的人生是什么？,지금 당신에게 자기 자신의 삶은(는) 무엇인가요?
+92,fear,恐れ,Fear,恐惧,두려움,今日のあなたは不安にどう向き合いますか,How are you facing anxiety today?,今天，你要如何面对不安？,오늘 당신은 불안에 어떻게 마주하나요?
+93,release,手放す,Release,放下,놓아줌,あなたは執着から何を学んでいますか,What is attachment teaching you?,执着正在教会你什么？,집착은(는) 당신에게 무엇을 가르치고 있나요?
+94,hope,希望,Hope,希望,희망,今のあなたに必要な小さな光は何ですか,What kind of a small light do you need right now?,此刻，你需要怎样的微小的光？,지금의 당신에게 필요한 작은 빛은(는) 무엇인가요?
+95,relationship,関係,Relationship,关系,관계,あなたの中で静かに浮かぶ感謝したい人は誰ですか,Who quietly comes to mind when you think of the person you want to thank?,当你想到你想感谢的人时，在你心里静静浮现的是谁？,"감사하고 싶은 사람을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 이는 누구인가요?"
+96,gratitude,感謝,Gratitude,感恩,감사,もし少し立ち止まるなら今日の恵みをどう見ますか,"If you paused for a moment, how would you look at today's blessing?",如果你稍微停下来，会如何看待今天的恩惠？,"잠시 멈춘다면, 오늘의 은혜을(를) 어떻게 바라보게 될까요?"
+97,reflection,内省,Reflection,反思,성찰,あなたは沈黙を事実として見ていますか それとも解釈として見ていますか,"Are you seeing silence as fact, or as interpretation?",你看到的沉默，是事实，还是一种解释？,"당신은 침묵을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+98,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,今のあなたが正直に感じる最後の日は何ですか,What does your last day honestly feel like to you right now?,此刻，你诚实地感受到的最后一天是什么？,지금의 당신이 솔직하게 느끼는 마지막 날은(는) 무엇인가요?
+99,silence,沈黙,Silence,沉默,침묵,あなたは静けさを感じていますか それとも見過ごしていますか,"Are you sensing stillness, or passing it by?",你是在感受宁静，还是正在把它忽略过去？,"당신은 고요을(를) 느끼고 있나요, 아니면 스쳐 지나가고 있나요?"
+100,identity,自己,Identity,自我,자기,今日のあなたにとって本当の自分はどんな存在ですか,What kind of presence is your true self to you today?,今天，对你来说，真正的自己是怎样的存在？,오늘 당신에게 진짜 나은(는) 어떤 존재인가요?
+101,existence,存在,Existence,存在,존재,あなたの心は生きる理由に何を求めていますか,What is your heart asking of your reason for living?,你的心向你活着的理由在寻求什么？,당신의 마음은 살아가는 이유에 무엇을 바라고 있나요?
+102,fear,恐れ,Fear,恐惧,두려움,今のあなたは避けていることにどんな名前をつけますか,What name would you give to what you are avoiding right now?,此刻，你会给你正在回避的事取什么名字？,지금의 당신은 당신이 피하고 있는 것에 어떤 이름을 붙이고 싶나요?
+103,release,手放す,Release,放下,놓아줌,あなたは古い役割を誰の視線で見ていますか,Through whose eyes are you seeing an old role?,你正透过谁的目光看着旧有的角色？,당신은 오래된 역할을(를) 누구의 시선으로 보고 있나요?
+104,hope,希望,Hope,希望,희망,もし静かに座るなら次の一歩は何を語りそうですか,"If you sat quietly, what might the next step say?",如果你安静坐下，下一步似乎会说些什么？,"조용히 앉아 있다면, 다음 한 걸음은(는) 무엇을 말할 것 같나요?"
+105,relationship,関係,Relationship,关系,관계,あなたの中に残っている許したい人の灯は何ですか,What small lamp of the person you want to forgive still remains within you?,在你心里，仍然留着怎样一盏关于你想原谅的人的灯？,당신 안에는 아직도 용서하고 싶은 사람에 관한 어떤 작은 등불이 남아 있나요?
+106,gratitude,感謝,Gratitude,感恩,감사,今あなたにとって受け取った助けとは何ですか,What is the help you received to you right now?,此刻，对你来说，你得到的帮助是什么？,지금 당신에게 받은 도움은(는) 무엇인가요?
+107,reflection,内省,Reflection,反思,성찰,今日のあなたは心の声にどう向き合いますか,How are you facing the voice of your heart today?,今天，你要如何面对你内心的声音？,오늘 당신은 마음의 소리에 어떻게 마주하나요?
+108,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは残したいものから何を学んでいますか,What is what you want to leave behind teaching you?,你想留下的东西正在教会你什么？,남기고 싶은 것은(는) 당신에게 무엇을 가르치고 있나요?
+109,silence,沈黙,Silence,沉默,침묵,今のあなたに必要な今ここは何ですか,What kind of the here and now do you need right now?,此刻，你需要怎样的此时此地？,지금의 당신에게 필요한 지금 여기은(는) 무엇인가요?
+110,identity,自己,Identity,自我,자기,あなたの中で静かに浮かぶ信じているものは何ですか,What quietly rises within you when you think of what you believe in?,想到你所相信的东西时，在你心里静静浮现的是什么？,"당신이 믿는 것을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+111,existence,存在,Existence,存在,존재,もし少し立ち止まるなら今いる場所をどう見ますか,"If you paused for a moment, how would you look at where you stand now?",如果你稍微停下来，会如何看待你此刻所站的位置？,"잠시 멈춘다면, 지금 당신이 서 있는 자리을(를) 어떻게 바라보게 될까요?"
+112,fear,恐れ,Fear,恐惧,두려움,あなたは失うことを事実として見ていますか それとも解釈として見ていますか,"Are you seeing the possibility of loss as fact, or as interpretation?",你看到的失去这件事，是事实，还是一种解释？,"당신은 잃는 것을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+113,release,手放す,Release,放下,놓아줌,今のあなたが正直に感じる重荷は何ですか,What does a burden honestly feel like to you right now?,此刻，你诚实地感受到的负担是什么？,지금의 당신이 솔직하게 느끼는 짐은(는) 무엇인가요?
+114,hope,希望,Hope,希望,희망,あなたは信じたい未来を抱えていますか それとも迎え入れ始めていますか,"Are you carrying the future you want to believe in, or beginning to welcome it?",你是在背负着你想相信的未来，还是开始迎接它？,"당신은 믿고 싶은 미래을(를) 짊어지고 있나요, 아니면 받아들이기 시작하고 있나요?"
+115,relationship,関係,Relationship,关系,관계,今日のあなたにとって守りたい人はどんな存在ですか,What kind of presence is the person you want to protect to you today?,今天，对你来说，你想守护的人是怎样的存在？,오늘 당신에게 지키고 싶은 사람은(는) 어떤 존재인가요?
+116,gratitude,感謝,Gratitude,感恩,감사,あなたの心は残っている温かさに何を求めていますか,What is your heart asking of the warmth that still remains?,你的心向仍然留存的温暖在寻求什么？,당신의 마음은 남아 있는 따뜻함에 무엇을 바라고 있나요?
+117,reflection,内省,Reflection,反思,성찰,今のあなたは自分への厳しさにどんな名前をつけますか,What name would you give to your harshness toward yourself right now?,此刻，你会给你对自己的苛刻取什么名字？,지금의 당신은 자신에게 향한 엄격함에 어떤 이름을 붙이고 싶나요?
+118,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは別れを誰の視線で見ていますか,Through whose eyes are you seeing parting?,你正透过谁的目光看着离别？,당신은 이별을(를) 누구의 시선으로 보고 있나요?
+119,silence,沈黙,Silence,沉默,침묵,もし静かに座るなら空白は何を語りそうですか,"If you sat quietly, what might emptiness say?",如果你安静坐下，空白似乎会说些什么？,"조용히 앉아 있다면, 공백은(는) 무엇을 말할 것 같나요?"
+120,identity,自己,Identity,自我,자기,あなたの中に残っている背負っている役割の灯は何ですか,What small lamp of the role you carry still remains within you?,在你心里，仍然留着怎样一盏关于你所背负的角色的灯？,당신 안에는 아직도 당신이 짊어진 역할에 관한 어떤 작은 등불이 남아 있나요?
+121,existence,存在,Existence,存在,존재,今あなたにとって本当の望みとは何ですか,What is your true desire to you right now?,此刻，对你来说，你真正的愿望是什么？,지금 당신에게 당신의 진정한 바람은(는) 무엇인가요?
+122,fear,恐れ,Fear,恐惧,두려움,今日のあなたは人の期待にどう向き合いますか,How are you facing other people's expectations today?,今天，你要如何面对他人的期待？,오늘 당신은 타인의 기대에 어떻게 마주하나요?
+123,release,手放す,Release,放下,놓아줌,あなたは後悔から何を学んでいますか,What is regret teaching you?,后悔正在教会你什么？,후회은(는) 당신에게 무엇을 가르치고 있나요?
+124,hope,希望,Hope,希望,희망,今のあなたに必要なやり直す力は何ですか,What kind of the strength to begin again do you need right now?,此刻，你需要怎样的重新开始的力量？,지금의 당신에게 필요한 다시 시작할 힘은(는) 무엇인가요?
+125,relationship,関係,Relationship,关系,관계,あなたの中で静かに浮かぶ距離を置くべき関係は何ですか,What quietly comes to mind when you think of a relationship that needs distance?,想到需要保持距离的关系时，在你心里静静浮现的是什么？,"거리를 두어야 할 관계을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+126,gratitude,感謝,Gratitude,感恩,감사,もし少し立ち止まるなら小さな幸せをどう見ますか,"If you paused for a moment, how would you look at a small happiness?",如果你稍微停下来，会如何看待微小的幸福？,"잠시 멈춘다면, 작은 행복을(를) 어떻게 바라보게 될까요?"
+127,reflection,内省,Reflection,反思,성찰,あなたは疲れを事実として見ていますか それとも解釈として見ていますか,"Are you seeing your fatigue as fact, or as interpretation?",你看到的你的疲惫，是事实，还是一种解释？,"당신은 피로을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+128,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,今のあなたが正直に感じる失った人は何ですか,What does the person you lost honestly feel like to you right now?,此刻，你诚实地感受到的你失去的人是什么？,지금의 당신이 솔직하게 느끼는 잃은 사람은(는) 무엇인가요?
+129,silence,沈黙,Silence,沉默,침묵,あなたは一歩手前の答えを感じていますか それとも見過ごしていますか,"Are you sensing the answer just before words, or passing it by?",你是在感受话语之前的答案，还是正在把它忽略过去？,"당신은 말이 되기 직전의 답을(를) 느끼고 있나요, 아니면 스쳐 지나가고 있나요?"
+130,identity,自己,Identity,自我,자기,今日のあなたにとって変わりたい部分はどんな存在ですか,What kind of presence is the part of you that wants to change to you today?,今天，对你来说，你想改变的那一部分是怎样的存在？,오늘 당신에게 변하고 싶은 부분은(는) 어떤 존재인가요?
+131,existence,存在,Existence,存在,존재,あなたの心は心の静けさに何を求めていますか,What is your heart asking of the quietness of your heart?,你的心向你内心的宁静在寻求什么？,당신의 마음은 마음의 고요에 무엇을 바라고 있나요?
+132,fear,恐れ,Fear,恐惧,두려움,今のあなたは失敗にどんな名前をつけますか,What name would you give to failure right now?,此刻，你会给失败取什么名字？,지금의 당신은 실패에 어떤 이름을 붙이고 싶나요?
+133,release,手放す,Release,放下,놓아줌,あなたは怒りを誰の視線で見ていますか,Through whose eyes are you seeing anger?,你正透过谁的目光看着愤怒？,당신은 분노을(를) 누구의 시선으로 보고 있나요?
+134,hope,希望,Hope,希望,희망,もし静かに座るなら救いは何を語りそうですか,"If you sat quietly, what might relief say?",如果你安静坐下，救赎似乎会说些什么？,"조용히 앉아 있다면, 구원은(는) 무엇을 말할 것 같나요?"
+135,relationship,関係,Relationship,关系,관계,あなたの中に残っている言えなかった言葉の灯は何ですか,What small lamp of the words you could not say still remains within you?,在你心里，仍然留着怎样一盏关于你没能说出口的话的灯？,당신 안에는 아직도 말하지 못한 말에 관한 어떤 작은 등불이 남아 있나요?
+136,gratitude,感謝,Gratitude,感恩,감사,今あなたにとって支えとは何ですか,What is the support that holds you up to you right now?,此刻，对你来说，支撑你的力量是什么？,지금 당신에게 당신을 지탱하는 것은(는) 무엇인가요?
+137,reflection,内省,Reflection,反思,성찰,今日のあなたは本音にどう向き合いますか,How are you facing your true feelings today?,今天，你要如何面对你真实的心声？,오늘 당신은 본심에 어떻게 마주하나요?
+138,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは言えなかった感謝から何を学んでいますか,What is the gratitude you could not say teaching you?,没能说出口的感谢正在教会你什么？,말하지 못한 감사은(는) 당신에게 무엇을 가르치고 있나요?
+139,silence,沈黙,Silence,沉默,침묵,今のあなたに必要な語らないことは何ですか,What kind of what remains unsaid do you need right now?,此刻，你需要怎样的没有说出口的东西？,지금의 당신에게 필요한 말하지 않는 것은(는) 무엇인가요?
+140,identity,自己,Identity,自我,자기,あなたの中で静かに浮かぶ守ってきた価値観は何ですか,What quietly rises within you when you think of the values you have protected?,想到你一直守护的价值观时，在你心里静静浮现的是什么？,"지켜 온 가치관을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+141,existence,存在,Existence,存在,존재,もし少し立ち止まるなら進む方向をどう見ますか,"If you paused for a moment, how would you look at the direction you are heading?",如果你稍微停下来，会如何看待你前行的方向？,"잠시 멈춘다면, 나아갈 방향을(를) 어떻게 바라보게 될까요?"
+142,fear,恐れ,Fear,恐惧,두려움,あなたは孤独を事実として見ていますか それとも解釈として見ていますか,"Are you seeing loneliness as fact, or as interpretation?",你看到的孤独，是事实，还是一种解释？,"당신은 외로움을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+143,release,手放す,Release,放下,놓아줌,今のあなたが正直に感じる言い訳は何ですか,What does an excuse honestly feel like to you right now?,此刻，你诚实地感受到的借口是什么？,지금의 당신이 솔직하게 느끼는 변명은(는) 무엇인가요?
+144,hope,希望,Hope,希望,희망,あなたは明日を抱えていますか それとも迎え入れ始めていますか,"Are you carrying tomorrow, or beginning to welcome it?",你是在背负着明天，还是开始迎接它？,"당신은 내일을(를) 짊어지고 있나요, 아니면 받아들이기 시작하고 있나요?"
+145,relationship,関係,Relationship,关系,관계,今日のあなたにとって受け取った優しさはどんな存在ですか,What kind of presence is the kindness you received to you today?,今天，对你来说，你收到的温柔是怎样的存在？,오늘 당신에게 받았던 다정함은(는) 어떤 존재인가요?
+146,gratitude,感謝,Gratitude,感恩,감사,あなたの心は平凡な奇跡に何を求めていますか,What is your heart asking of an ordinary miracle?,你的心向平凡的奇迹在寻求什么？,당신의 마음은 평범한 기적에 무엇을 바라고 있나요?
+147,reflection,内省,Reflection,反思,성찰,今のあなたは選択にどんな名前をつけますか,What name would you give to a choice right now?,此刻，你会给选择取什么名字？,지금의 당신은 선택에 어떤 이름을 붙이고 싶나요?
+148,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは限りある時間を誰の視線で見ていますか,Through whose eyes are you seeing limited time?,你正透过谁的目光看着有限的时间？,당신은 유한한 시간을(를) 누구의 시선으로 보고 있나요?
+149,silence,沈黙,Silence,沉默,침묵,もし静かに座るなら待つことは何を語りそうですか,"If you sat quietly, what might waiting say?",如果你安静坐下，等待似乎会说些什么？,"조용히 앉아 있다면, 기다림은(는) 무엇을 말할 것 같나요?"
+150,identity,自己,Identity,自我,자기,あなたの中に残っている譲れないものの灯は何ですか,What small lamp of what you cannot compromise on still remains within you?,在你心里，仍然留着怎样一盏关于你无法让步的东西的灯？,당신 안에는 아직도 양보할 수 없는 것에 관한 어떤 작은 등불이 남아 있나요?
+151,existence,存在,Existence,存在,존재,今あなたにとって今日という時間とは何ですか,What is this day to you right now?,此刻，对你来说，今天这段时间是什么？,지금 당신에게 오늘이라는 시간은(는) 무엇인가요?
+152,fear,恐れ,Fear,恐惧,두려움,今日のあなたは変化にどう向き合いますか,How are you facing change today?,今天，你要如何面对变化？,오늘 당신은 변화에 어떻게 마주하나요?
+153,release,手放す,Release,放下,놓아줌,あなたは終わらせるべきことから何を学んでいますか,What is what needs to come to an end teaching you?,应该结束的事正在教会你什么？,끝내야 할 것은(는) 당신에게 무엇을 가르치고 있나요?
+154,hope,希望,Hope,希望,희망,今のあなたに必要な続ける理由は何ですか,What kind of your reason to continue do you need right now?,此刻，你需要怎样的继续下去的理由？,지금의 당신에게 필요한 계속할 이유은(는) 무엇인가요?
+155,relationship,関係,Relationship,关系,관계,あなたの中で静かに浮かぶ残っているつながりは何ですか,What quietly comes to mind when you think of the connection that still remains?,想到仍然留下的连结时，在你心里静静浮现的是什么？,"아직 남아 있는 연결을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+156,gratitude,感謝,Gratitude,感恩,감사,もし少し立ち止まるなら今あるものをどう見ますか,"If you paused for a moment, how would you look at what is already here?",如果你稍微停下来，会如何看待此刻已经拥有的东西？,"잠시 멈춘다면, 지금 이미 있는 것을(를) 어떻게 바라보게 될까요?"
+157,reflection,内省,Reflection,反思,성찰,あなたは気づいていない思いを事実として見ていますか それとも解釈として見ていますか,"Are you seeing a feeling you have not yet noticed as fact, or as interpretation?",你看到的你尚未察觉的心意，是事实，还是一种解释？,"당신은 아직 알아차리지 못한 마음을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+158,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,今のあなたが正直に感じるいのちは何ですか,What does life itself honestly feel like to you right now?,此刻，你诚实地感受到的生命是什么？,지금의 당신이 솔직하게 느끼는 생명은(는) 무엇인가요?
+159,silence,沈黙,Silence,沉默,침묵,あなたは見ることを感じていますか それとも見過ごしていますか,"Are you sensing simply seeing, or passing it by?",你是在感受只是看见，还是正在把它忽略过去？,"당신은 그저 보는 것을(를) 느끼고 있나요, 아니면 스쳐 지나가고 있나요?"
+160,identity,自己,Identity,自我,자기,今日のあなたにとって人生の軸はどんな存在ですか,What kind of presence is the axis of your life to you today?,今天，对你来说，你人生的轴心是怎样的存在？,오늘 당신에게 삶의 축은(는) 어떤 존재인가요?
+161,existence,存在,Existence,存在,존재,あなたの心は本当に大切なものに何を求めていますか,What is your heart asking of what truly matters?,你的心向真正重要的东西在寻求什么？,당신의 마음은 진정으로 중요한 것에 무엇을 바라고 있나요?
+162,fear,恐れ,Fear,恐惧,두려움,今のあなたは恐れにどんな名前をつけますか,What name would you give to fear right now?,此刻，你会给恐惧取什么名字？,지금의 당신은 두려움에 어떤 이름을 붙이고 싶나요?
+163,release,手放す,Release,放下,놓아줌,あなたは手放せないものを誰の視線で見ていますか,Through whose eyes are you seeing what you cannot let go of?,你正透过谁的目光看着你放不下的东西？,당신은 놓지 못하는 것을(를) 누구의 시선으로 보고 있나요?
+164,hope,希望,Hope,希望,희망,もし静かに座るなら希望は何を語りそうですか,"If you sat quietly, what might hope say?",如果你安静坐下，希望似乎会说些什么？,"조용히 앉아 있다면, 희망은(는) 무엇을 말할 것 같나요?"
+165,relationship,関係,Relationship,关系,관계,あなたの中に残っている思い出す人の灯は何ですか,What small lamp of the person who comes to mind still remains within you?,在你心里，仍然留着怎样一盏关于你想起的那个人的灯？,당신 안에는 아직도 문득 떠오르는 사람에 관한 어떤 작은 등불이 남아 있나요?
+166,gratitude,感謝,Gratitude,感恩,감사,今あなたにとって感謝できることとは何ですか,What is what you can be grateful for to you right now?,此刻，对你来说，你可以感恩的事是什么？,지금 당신에게 감사할 수 있는 것은(는) 무엇인가요?
+167,reflection,内省,Reflection,反思,성찰,今日のあなたは今の感情にどう向き合いますか,How are you facing your feelings right now today?,今天，你要如何面对你此刻的感受？,오늘 당신은 지금의 감정에 어떻게 마주하나요?
+168,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは死から何を学んでいますか,What is death teaching you?,死亡正在教会你什么？,죽음은(는) 당신에게 무엇을 가르치고 있나요?
+169,silence,沈黙,Silence,沉默,침묵,今のあなたに必要な呼吸は何ですか,What kind of your breath do you need right now?,此刻，你需要怎样的呼吸？,지금의 당신에게 필요한 호흡은(는) 무엇인가요?
+170,identity,自己,Identity,自我,자기,あなたの中で静かに浮かぶなりつつある自分は何ですか,What quietly rises within you when you think of the person you are becoming?,想到你正在成为的自己时，在你心里静静浮现的是什么？,"되어 가는 나을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+171,existence,存在,Existence,存在,존재,もし少し立ち止まるなら自分の人生をどう見ますか,"If you paused for a moment, how would you look at your own life?",如果你稍微停下来，会如何看待你自己的人生？,"잠시 멈춘다면, 자기 자신의 삶을(를) 어떻게 바라보게 될까요?"
+172,fear,恐れ,Fear,恐惧,두려움,あなたは不安を事実として見ていますか それとも解釈として見ていますか,"Are you seeing anxiety as fact, or as interpretation?",你看到的不安，是事实，还是一种解释？,"당신은 불안을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+173,release,手放す,Release,放下,놓아줌,今のあなたが正直に感じる執着は何ですか,What does attachment honestly feel like to you right now?,此刻，你诚实地感受到的执着是什么？,지금의 당신이 솔직하게 느끼는 집착은(는) 무엇인가요?
+174,hope,希望,Hope,希望,희망,あなたは小さな光を抱えていますか それとも迎え入れ始めていますか,"Are you carrying a small light, or beginning to welcome it?",你是在背负着微小的光，还是开始迎接它？,"당신은 작은 빛을(를) 짊어지고 있나요, 아니면 받아들이기 시작하고 있나요?"
+175,relationship,関係,Relationship,关系,관계,今日のあなたにとって感謝したい人はどんな存在ですか,What kind of presence is the person you want to thank to you today?,今天，对你来说，你想感谢的人是怎样的存在？,오늘 당신에게 감사하고 싶은 사람은(는) 어떤 존재인가요?
+176,gratitude,感謝,Gratitude,感恩,감사,あなたの心は今日の恵みに何を求めていますか,What is your heart asking of today's blessing?,你的心向今天的恩惠在寻求什么？,당신의 마음은 오늘의 은혜에 무엇을 바라고 있나요?
+177,reflection,内省,Reflection,反思,성찰,今のあなたは沈黙にどんな名前をつけますか,What name would you give to silence right now?,此刻，你会给沉默取什么名字？,지금의 당신은 침묵에 어떤 이름을 붙이고 싶나요?
+178,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは最後の日を誰の視線で見ていますか,Through whose eyes are you seeing your last day?,你正透过谁的目光看着最后一天？,당신은 마지막 날을(를) 누구의 시선으로 보고 있나요?
+179,silence,沈黙,Silence,沉默,침묵,もし静かに座るなら静けさは何を語りそうですか,"If you sat quietly, what might stillness say?",如果你安静坐下，宁静似乎会说些什么？,"조용히 앉아 있다면, 고요은(는) 무엇을 말할 것 같나요?"
+180,identity,自己,Identity,自我,자기,あなたの中に残っている本当の自分の灯は何ですか,What small lamp of your true self still remains within you?,在你心里，仍然留着怎样一盏关于真正的自己的灯？,당신 안에는 아직도 진짜 나에 관한 어떤 작은 등불이 남아 있나요?
+181,existence,存在,Existence,存在,존재,今あなたにとって生きる理由とは何ですか,What is your reason for living to you right now?,此刻，对你来说，你活着的理由是什么？,지금 당신에게 살아가는 이유은(는) 무엇인가요?
+182,fear,恐れ,Fear,恐惧,두려움,今日のあなたは避けていることにどう向き合いますか,How are you facing what you are avoiding today?,今天，你要如何面对你正在回避的事？,오늘 당신은 당신이 피하고 있는 것에 어떻게 마주하나요?
+183,release,手放す,Release,放下,놓아줌,あなたは古い役割から何を学んでいますか,What is an old role teaching you?,旧有的角色正在教会你什么？,오래된 역할은(는) 당신에게 무엇을 가르치고 있나요?
+184,hope,希望,Hope,希望,희망,今のあなたに必要な次の一歩は何ですか,What kind of the next step do you need right now?,此刻，你需要怎样的下一步？,지금의 당신에게 필요한 다음 한 걸음은(는) 무엇인가요?
+185,relationship,関係,Relationship,关系,관계,あなたの中で静かに浮かぶ許したい人は誰ですか,Who quietly comes to mind when you think of the person you want to forgive?,当你想到你想原谅的人时，在你心里静静浮现的是谁？,"용서하고 싶은 사람을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 이는 누구인가요?"
+186,gratitude,感謝,Gratitude,感恩,감사,もし少し立ち止まるなら受け取った助けをどう見ますか,"If you paused for a moment, how would you look at the help you received?",如果你稍微停下来，会如何看待你得到的帮助？,"잠시 멈춘다면, 받은 도움을(를) 어떻게 바라보게 될까요?"
+187,reflection,内省,Reflection,反思,성찰,あなたは心の声を事実として見ていますか それとも解釈として見ていますか,"Are you seeing the voice of your heart as fact, or as interpretation?",你看到的你内心的声音，是事实，还是一种解释？,"당신은 마음의 소리을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+188,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,今のあなたが正直に感じる残したいものは何ですか,What does what you want to leave behind honestly feel like to you right now?,此刻，你诚实地感受到的你想留下的东西是什么？,지금의 당신이 솔직하게 느끼는 남기고 싶은 것은(는) 무엇인가요?
+189,silence,沈黙,Silence,沉默,침묵,あなたは今ここを感じていますか それとも見過ごしていますか,"Are you sensing the here and now, or passing it by?",你是在感受此时此地，还是正在把它忽略过去？,"당신은 지금 여기을(를) 느끼고 있나요, 아니면 스쳐 지나가고 있나요?"
+190,identity,自己,Identity,自我,자기,今日のあなたにとって信じているものはどんな存在ですか,What kind of presence is what you believe in to you today?,今天，对你来说，你所相信的东西是怎样的存在？,오늘 당신에게 당신이 믿는 것은(는) 어떤 존재인가요?
+191,existence,存在,Existence,存在,존재,あなたの心は今いる場所に何を求めていますか,What is your heart asking of where you stand now?,你的心向你此刻所站的位置在寻求什么？,당신의 마음은 지금 당신이 서 있는 자리에 무엇을 바라고 있나요?
+192,fear,恐れ,Fear,恐惧,두려움,今のあなたは失うことにどんな名前をつけますか,What name would you give to the possibility of loss right now?,此刻，你会给失去这件事取什么名字？,지금의 당신은 잃는 것에 어떤 이름을 붙이고 싶나요?
+193,release,手放す,Release,放下,놓아줌,あなたは重荷を誰の視線で見ていますか,Through whose eyes are you seeing a burden?,你正透过谁的目光看着负担？,당신은 짐을(를) 누구의 시선으로 보고 있나요?
+194,hope,希望,Hope,希望,희망,もし静かに座るなら信じたい未来は何を語りそうですか,"If you sat quietly, what might the future you want to believe in say?",如果你安静坐下，你想相信的未来似乎会说些什么？,"조용히 앉아 있다면, 믿고 싶은 미래은(는) 무엇을 말할 것 같나요?"
+195,relationship,関係,Relationship,关系,관계,あなたの中に残っている守りたい人の灯は何ですか,What small lamp of the person you want to protect still remains within you?,在你心里，仍然留着怎样一盏关于你想守护的人的灯？,당신 안에는 아직도 지키고 싶은 사람에 관한 어떤 작은 등불이 남아 있나요?
+196,gratitude,感謝,Gratitude,感恩,감사,今あなたにとって残っている温かさとは何ですか,What is the warmth that still remains to you right now?,此刻，对你来说，仍然留存的温暖是什么？,지금 당신에게 남아 있는 따뜻함은(는) 무엇인가요?
+197,reflection,内省,Reflection,反思,성찰,今日のあなたは自分への厳しさにどう向き合いますか,How are you facing your harshness toward yourself today?,今天，你要如何面对你对自己的苛刻？,오늘 당신은 자신에게 향한 엄격함에 어떻게 마주하나요?
+198,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは別れから何を学んでいますか,What is parting teaching you?,离别正在教会你什么？,이별은(는) 당신에게 무엇을 가르치고 있나요?
+199,silence,沈黙,Silence,沉默,침묵,今のあなたに必要な空白は何ですか,What kind of emptiness do you need right now?,此刻，你需要怎样的空白？,지금의 당신에게 필요한 공백은(는) 무엇인가요?
+200,identity,自己,Identity,自我,자기,あなたの中で静かに浮かぶ背負っている役割は何ですか,What quietly rises within you when you think of the role you carry?,想到你所背负的角色时，在你心里静静浮现的是什么？,"당신이 짊어진 역할을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+201,existence,存在,Existence,存在,존재,もし少し立ち止まるなら本当の望みをどう見ますか,"If you paused for a moment, how would you look at your true desire?",如果你稍微停下来，会如何看待你真正的愿望？,"잠시 멈춘다면, 당신의 진정한 바람을(를) 어떻게 바라보게 될까요?"
+202,fear,恐れ,Fear,恐惧,두려움,あなたは人の期待を事実として見ていますか それとも解釈として見ていますか,"Are you seeing other people's expectations as fact, or as interpretation?",你看到的他人的期待，是事实，还是一种解释？,"당신은 타인의 기대을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+203,release,手放す,Release,放下,놓아줌,今のあなたが正直に感じる後悔は何ですか,What does regret honestly feel like to you right now?,此刻，你诚实地感受到的后悔是什么？,지금의 당신이 솔직하게 느끼는 후회은(는) 무엇인가요?
+204,hope,希望,Hope,希望,희망,あなたはやり直す力を抱えていますか それとも迎え入れ始めていますか,"Are you carrying the strength to begin again, or beginning to welcome it?",你是在背负着重新开始的力量，还是开始迎接它？,"당신은 다시 시작할 힘을(를) 짊어지고 있나요, 아니면 받아들이기 시작하고 있나요?"
+205,relationship,関係,Relationship,关系,관계,今日のあなたにとって距離を置くべき関係はどんな存在ですか,What kind of presence is a relationship that needs distance to you today?,今天，对你来说，需要保持距离的关系是怎样的存在？,오늘 당신에게 거리를 두어야 할 관계은(는) 어떤 존재인가요?
+206,gratitude,感謝,Gratitude,感恩,감사,あなたの心は小さな幸せに何を求めていますか,What is your heart asking of a small happiness?,你的心向微小的幸福在寻求什么？,당신의 마음은 작은 행복에 무엇을 바라고 있나요?
+207,reflection,内省,Reflection,反思,성찰,今のあなたは疲れにどんな名前をつけますか,What name would you give to your fatigue right now?,此刻，你会给你的疲惫取什么名字？,지금의 당신은 피로에 어떤 이름을 붙이고 싶나요?
+208,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは失った人を誰の視線で見ていますか,Through whose eyes are you seeing the person you lost?,你正透过谁的目光看着你失去的人？,당신은 잃은 사람을(를) 누구의 시선으로 보고 있나요?
+209,silence,沈黙,Silence,沉默,침묵,もし静かに座るなら一歩手前の答えは何を語りそうですか,"If you sat quietly, what might the answer just before words say?",如果你安静坐下，话语之前的答案似乎会说些什么？,"조용히 앉아 있다면, 말이 되기 직전의 답은(는) 무엇을 말할 것 같나요?"
+210,identity,自己,Identity,自我,자기,あなたの中に残っている変わりたい部分の灯は何ですか,What small lamp of the part of you that wants to change still remains within you?,在你心里，仍然留着怎样一盏关于你想改变的那一部分的灯？,당신 안에는 아직도 변하고 싶은 부분에 관한 어떤 작은 등불이 남아 있나요?
+211,existence,存在,Existence,存在,존재,今あなたにとって心の静けさとは何ですか,What is the quietness of your heart to you right now?,此刻，对你来说，你内心的宁静是什么？,지금 당신에게 마음의 고요은(는) 무엇인가요?
+212,fear,恐れ,Fear,恐惧,두려움,今日のあなたは失敗にどう向き合いますか,How are you facing failure today?,今天，你要如何面对失败？,오늘 당신은 실패에 어떻게 마주하나요?
+213,release,手放す,Release,放下,놓아줌,あなたは怒りから何を学んでいますか,What is anger teaching you?,愤怒正在教会你什么？,분노은(는) 당신에게 무엇을 가르치고 있나요?
+214,hope,希望,Hope,希望,희망,今のあなたに必要な救いは何ですか,What kind of relief do you need right now?,此刻，你需要怎样的救赎？,지금의 당신에게 필요한 구원은(는) 무엇인가요?
+215,relationship,関係,Relationship,关系,관계,あなたの中で静かに浮かぶ言えなかった言葉は何ですか,What quietly comes to mind when you think of the words you could not say?,想到你没能说出口的话时，在你心里静静浮现的是什么？,"말하지 못한 말을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+216,gratitude,感謝,Gratitude,感恩,감사,もし少し立ち止まるなら支えをどう見ますか,"If you paused for a moment, how would you look at the support that holds you up?",如果你稍微停下来，会如何看待支撑你的力量？,"잠시 멈춘다면, 당신을 지탱하는 것을(를) 어떻게 바라보게 될까요?"
+217,reflection,内省,Reflection,反思,성찰,あなたは本音を事実として見ていますか それとも解釈として見ていますか,"Are you seeing your true feelings as fact, or as interpretation?",你看到的你真实的心声，是事实，还是一种解释？,"당신은 본심을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+218,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,今のあなたが正直に感じる言えなかった感謝は何ですか,What does the gratitude you could not say honestly feel like to you right now?,此刻，你诚实地感受到的没能说出口的感谢是什么？,지금의 당신이 솔직하게 느끼는 말하지 못한 감사은(는) 무엇인가요?
+219,silence,沈黙,Silence,沉默,침묵,あなたは語らないことを感じていますか それとも見過ごしていますか,"Are you sensing what remains unsaid, or passing it by?",你是在感受没有说出口的东西，还是正在把它忽略过去？,"당신은 말하지 않는 것을(를) 느끼고 있나요, 아니면 스쳐 지나가고 있나요?"
+220,identity,自己,Identity,自我,자기,今日のあなたにとって守ってきた価値観はどんな存在ですか,What kind of presence is the values you have protected to you today?,今天，对你来说，你一直守护的价值观是怎样的存在？,오늘 당신에게 지켜 온 가치관은(는) 어떤 존재인가요?
+221,existence,存在,Existence,存在,존재,あなたの心は進む方向に何を求めていますか,What is your heart asking of the direction you are heading?,你的心向你前行的方向在寻求什么？,당신의 마음은 나아갈 방향에 무엇을 바라고 있나요?
+222,fear,恐れ,Fear,恐惧,두려움,今のあなたは孤独にどんな名前をつけますか,What name would you give to loneliness right now?,此刻，你会给孤独取什么名字？,지금의 당신은 외로움에 어떤 이름을 붙이고 싶나요?
+223,release,手放す,Release,放下,놓아줌,あなたは言い訳を誰の視線で見ていますか,Through whose eyes are you seeing an excuse?,你正透过谁的目光看着借口？,당신은 변명을(를) 누구의 시선으로 보고 있나요?
+224,hope,希望,Hope,希望,희망,もし静かに座るなら明日は何を語りそうですか,"If you sat quietly, what might tomorrow say?",如果你安静坐下，明天似乎会说些什么？,"조용히 앉아 있다면, 내일은(는) 무엇을 말할 것 같나요?"
+225,relationship,関係,Relationship,关系,관계,あなたの中に残っている受け取った優しさの灯は何ですか,What small lamp of the kindness you received still remains within you?,在你心里，仍然留着怎样一盏关于你收到的温柔的灯？,당신 안에는 아직도 받았던 다정함에 관한 어떤 작은 등불이 남아 있나요?
+226,gratitude,感謝,Gratitude,感恩,감사,今あなたにとって平凡な奇跡とは何ですか,What is an ordinary miracle to you right now?,此刻，对你来说，平凡的奇迹是什么？,지금 당신에게 평범한 기적은(는) 무엇인가요?
+227,reflection,内省,Reflection,反思,성찰,今日のあなたは選択にどう向き合いますか,How are you facing a choice today?,今天，你要如何面对选择？,오늘 당신은 선택에 어떻게 마주하나요?
+228,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは限りある時間から何を学んでいますか,What is limited time teaching you?,有限的时间正在教会你什么？,유한한 시간은(는) 당신에게 무엇을 가르치고 있나요?
+229,silence,沈黙,Silence,沉默,침묵,今のあなたに必要な待つことは何ですか,What kind of waiting do you need right now?,此刻，你需要怎样的等待？,지금의 당신에게 필요한 기다림은(는) 무엇인가요?
+230,identity,自己,Identity,自我,자기,あなたの中で静かに浮かぶ譲れないものは何ですか,What quietly rises within you when you think of what you cannot compromise on?,想到你无法让步的东西时，在你心里静静浮现的是什么？,"양보할 수 없는 것을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+231,existence,存在,Existence,存在,존재,もし少し立ち止まるなら今日という時間をどう見ますか,"If you paused for a moment, how would you look at this day?",如果你稍微停下来，会如何看待今天这段时间？,"잠시 멈춘다면, 오늘이라는 시간을(를) 어떻게 바라보게 될까요?"
+232,fear,恐れ,Fear,恐惧,두려움,あなたは変化を事実として見ていますか それとも解釈として見ていますか,"Are you seeing change as fact, or as interpretation?",你看到的变化，是事实，还是一种解释？,"당신은 변화을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+233,release,手放す,Release,放下,놓아줌,今のあなたが正直に感じる終わらせるべきことは何ですか,What does what needs to come to an end honestly feel like to you right now?,此刻，你诚实地感受到的应该结束的事是什么？,지금의 당신이 솔직하게 느끼는 끝내야 할 것은(는) 무엇인가요?
+234,hope,希望,Hope,希望,희망,あなたは続ける理由を抱えていますか それとも迎え入れ始めていますか,"Are you carrying your reason to continue, or beginning to welcome it?",你是在背负着继续下去的理由，还是开始迎接它？,"당신은 계속할 이유을(를) 짊어지고 있나요, 아니면 받아들이기 시작하고 있나요?"
+235,relationship,関係,Relationship,关系,관계,今日のあなたにとって残っているつながりはどんな存在ですか,What kind of presence is the connection that still remains to you today?,今天，对你来说，仍然留下的连结是怎样的存在？,오늘 당신에게 아직 남아 있는 연결은(는) 어떤 존재인가요?
+236,gratitude,感謝,Gratitude,感恩,감사,あなたの心は今あるものに何を求めていますか,What is your heart asking of what is already here?,你的心向此刻已经拥有的东西在寻求什么？,당신의 마음은 지금 이미 있는 것에 무엇을 바라고 있나요?
+237,reflection,内省,Reflection,反思,성찰,今のあなたは気づいていない思いにどんな名前をつけますか,What name would you give to a feeling you have not yet noticed right now?,此刻，你会给你尚未察觉的心意取什么名字？,지금의 당신은 아직 알아차리지 못한 마음에 어떤 이름을 붙이고 싶나요?
+238,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたはいのちを誰の視線で見ていますか,Through whose eyes are you seeing life itself?,你正透过谁的目光看着生命？,당신은 생명을(를) 누구의 시선으로 보고 있나요?
+239,silence,沈黙,Silence,沉默,침묵,もし静かに座るなら見ることは何を語りそうですか,"If you sat quietly, what might simply seeing say?",如果你安静坐下，只是看见似乎会说些什么？,"조용히 앉아 있다면, 그저 보는 것은(는) 무엇을 말할 것 같나요?"
+240,identity,自己,Identity,自我,자기,あなたの中に残っている人生の軸の灯は何ですか,What small lamp of the axis of your life still remains within you?,在你心里，仍然留着怎样一盏关于你人生的轴心的灯？,당신 안에는 아직도 삶의 축에 관한 어떤 작은 등불이 남아 있나요?
+241,existence,存在,Existence,存在,존재,今あなたにとって本当に大切なものとは何ですか,What is what truly matters to you right now?,此刻，对你来说，真正重要的东西是什么？,지금 당신에게 진정으로 중요한 것은(는) 무엇인가요?
+242,fear,恐れ,Fear,恐惧,두려움,今日のあなたは恐れにどう向き合いますか,How are you facing fear today?,今天，你要如何面对恐惧？,오늘 당신은 두려움에 어떻게 마주하나요?
+243,release,手放す,Release,放下,놓아줌,あなたは手放せないものから何を学んでいますか,What is what you cannot let go of teaching you?,你放不下的东西正在教会你什么？,놓지 못하는 것은(는) 당신에게 무엇을 가르치고 있나요?
+244,hope,希望,Hope,希望,희망,今のあなたに必要な希望は何ですか,What kind of hope do you need right now?,此刻，你需要怎样的希望？,지금의 당신에게 필요한 희망은(는) 무엇인가요?
+245,relationship,関係,Relationship,关系,관계,あなたの中で静かに浮かぶ思い出す人は誰ですか,Who quietly comes to mind when you think of the person who comes to mind?,当你想到你想起的那个人时，在你心里静静浮现的是谁？,"문득 떠오르는 사람을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 이는 누구인가요?"
+246,gratitude,感謝,Gratitude,感恩,감사,もし少し立ち止まるなら感謝できることをどう見ますか,"If you paused for a moment, how would you look at what you can be grateful for?",如果你稍微停下来，会如何看待你可以感恩的事？,"잠시 멈춘다면, 감사할 수 있는 것을(를) 어떻게 바라보게 될까요?"
+247,reflection,内省,Reflection,反思,성찰,あなたは今の感情を事実として見ていますか それとも解釈として見ていますか,"Are you seeing your feelings right now as fact, or as interpretation?",你看到的你此刻的感受，是事实，还是一种解释？,"당신은 지금의 감정을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+248,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,今のあなたが正直に感じる死は何ですか,What does death honestly feel like to you right now?,此刻，你诚实地感受到的死亡是什么？,지금의 당신이 솔직하게 느끼는 죽음은(는) 무엇인가요?
+249,silence,沈黙,Silence,沉默,침묵,あなたは呼吸を感じていますか それとも見過ごしていますか,"Are you sensing your breath, or passing it by?",你是在感受呼吸，还是正在把它忽略过去？,"당신은 호흡을(를) 느끼고 있나요, 아니면 스쳐 지나가고 있나요?"
+250,identity,自己,Identity,自我,자기,今日のあなたにとってなりつつある自分はどんな存在ですか,What kind of presence is the person you are becoming to you today?,今天，对你来说，你正在成为的自己是怎样的存在？,오늘 당신에게 되어 가는 나은(는) 어떤 존재인가요?
+251,existence,存在,Existence,存在,존재,あなたの心は自分の人生に何を求めていますか,What is your heart asking of your own life?,你的心向你自己的人生在寻求什么？,당신의 마음은 자기 자신의 삶에 무엇을 바라고 있나요?
+252,fear,恐れ,Fear,恐惧,두려움,今のあなたは不安にどんな名前をつけますか,What name would you give to anxiety right now?,此刻，你会给不安取什么名字？,지금의 당신은 불안에 어떤 이름을 붙이고 싶나요?
+253,release,手放す,Release,放下,놓아줌,あなたは執着を誰の視線で見ていますか,Through whose eyes are you seeing attachment?,你正透过谁的目光看着执着？,당신은 집착을(를) 누구의 시선으로 보고 있나요?
+254,hope,希望,Hope,希望,희망,もし静かに座るなら小さな光は何を語りそうですか,"If you sat quietly, what might a small light say?",如果你安静坐下，微小的光似乎会说些什么？,"조용히 앉아 있다면, 작은 빛은(는) 무엇을 말할 것 같나요?"
+255,relationship,関係,Relationship,关系,관계,あなたの中に残っている感謝したい人の灯は何ですか,What small lamp of the person you want to thank still remains within you?,在你心里，仍然留着怎样一盏关于你想感谢的人的灯？,당신 안에는 아직도 감사하고 싶은 사람에 관한 어떤 작은 등불이 남아 있나요?
+256,gratitude,感謝,Gratitude,感恩,감사,今あなたにとって今日の恵みとは何ですか,What is today's blessing to you right now?,此刻，对你来说，今天的恩惠是什么？,지금 당신에게 오늘의 은혜은(는) 무엇인가요?
+257,reflection,内省,Reflection,反思,성찰,今日のあなたは沈黙にどう向き合いますか,How are you facing silence today?,今天，你要如何面对沉默？,오늘 당신은 침묵에 어떻게 마주하나요?
+258,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは最後の日から何を学んでいますか,What is your last day teaching you?,最后一天正在教会你什么？,마지막 날은(는) 당신에게 무엇을 가르치고 있나요?
+259,silence,沈黙,Silence,沉默,침묵,今のあなたに必要な静けさは何ですか,What kind of stillness do you need right now?,此刻，你需要怎样的宁静？,지금의 당신에게 필요한 고요은(는) 무엇인가요?
+260,identity,自己,Identity,自我,자기,あなたの中で静かに浮かぶ本当の自分は何ですか,What quietly rises within you when you think of your true self?,想到真正的自己时，在你心里静静浮现的是什么？,"진짜 나을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+261,existence,存在,Existence,存在,존재,もし少し立ち止まるなら生きる理由をどう見ますか,"If you paused for a moment, how would you look at your reason for living?",如果你稍微停下来，会如何看待你活着的理由？,"잠시 멈춘다면, 살아가는 이유을(를) 어떻게 바라보게 될까요?"
+262,fear,恐れ,Fear,恐惧,두려움,あなたは避けていることを事実として見ていますか それとも解釈として見ていますか,"Are you seeing what you are avoiding as fact, or as interpretation?",你看到的你正在回避的事，是事实，还是一种解释？,"당신은 당신이 피하고 있는 것을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+263,release,手放す,Release,放下,놓아줌,今のあなたが正直に感じる古い役割は何ですか,What does an old role honestly feel like to you right now?,此刻，你诚实地感受到的旧有的角色是什么？,지금의 당신이 솔직하게 느끼는 오래된 역할은(는) 무엇인가요?
+264,hope,希望,Hope,希望,희망,あなたは次の一歩を抱えていますか それとも迎え入れ始めていますか,"Are you carrying the next step, or beginning to welcome it?",你是在背负着下一步，还是开始迎接它？,"당신은 다음 한 걸음을(를) 짊어지고 있나요, 아니면 받아들이기 시작하고 있나요?"
+265,relationship,関係,Relationship,关系,관계,今日のあなたにとって許したい人はどんな存在ですか,What kind of presence is the person you want to forgive to you today?,今天，对你来说，你想原谅的人是怎样的存在？,오늘 당신에게 용서하고 싶은 사람은(는) 어떤 존재인가요?
+266,gratitude,感謝,Gratitude,感恩,감사,あなたの心は受け取った助けに何を求めていますか,What is your heart asking of the help you received?,你的心向你得到的帮助在寻求什么？,당신의 마음은 받은 도움에 무엇을 바라고 있나요?
+267,reflection,内省,Reflection,反思,성찰,今のあなたは心の声にどんな名前をつけますか,What name would you give to the voice of your heart right now?,此刻，你会给你内心的声音取什么名字？,지금의 당신은 마음의 소리에 어떤 이름을 붙이고 싶나요?
+268,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは残したいものを誰の視線で見ていますか,Through whose eyes are you seeing what you want to leave behind?,你正透过谁的目光看着你想留下的东西？,당신은 남기고 싶은 것을(를) 누구의 시선으로 보고 있나요?
+269,silence,沈黙,Silence,沉默,침묵,もし静かに座るなら今ここは何を語りそうですか,"If you sat quietly, what might the here and now say?",如果你安静坐下，此时此地似乎会说些什么？,"조용히 앉아 있다면, 지금 여기은(는) 무엇을 말할 것 같나요?"
+270,identity,自己,Identity,自我,자기,あなたの中に残っている信じているものの灯は何ですか,What small lamp of what you believe in still remains within you?,在你心里，仍然留着怎样一盏关于你所相信的东西的灯？,당신 안에는 아직도 당신이 믿는 것에 관한 어떤 작은 등불이 남아 있나요?
+271,existence,存在,Existence,存在,존재,今あなたにとって今いる場所とは何ですか,What is where you stand now to you right now?,此刻，对你来说，你此刻所站的位置是什么？,지금 당신에게 지금 당신이 서 있는 자리은(는) 무엇인가요?
+272,fear,恐れ,Fear,恐惧,두려움,今日のあなたは失うことにどう向き合いますか,How are you facing the possibility of loss today?,今天，你要如何面对失去这件事？,오늘 당신은 잃는 것에 어떻게 마주하나요?
+273,release,手放す,Release,放下,놓아줌,あなたは重荷から何を学んでいますか,What is a burden teaching you?,负担正在教会你什么？,짐은(는) 당신에게 무엇을 가르치고 있나요?
+274,hope,希望,Hope,希望,희망,今のあなたに必要な信じたい未来は何ですか,What kind of the future you want to believe in do you need right now?,此刻，你需要怎样的你想相信的未来？,지금의 당신에게 필요한 믿고 싶은 미래은(는) 무엇인가요?
+275,relationship,関係,Relationship,关系,관계,あなたの中で静かに浮かぶ守りたい人は誰ですか,Who quietly comes to mind when you think of the person you want to protect?,当你想到你想守护的人时，在你心里静静浮现的是谁？,"지키고 싶은 사람을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 이는 누구인가요?"
+276,gratitude,感謝,Gratitude,感恩,감사,もし少し立ち止まるなら残っている温かさをどう見ますか,"If you paused for a moment, how would you look at the warmth that still remains?",如果你稍微停下来，会如何看待仍然留存的温暖？,"잠시 멈춘다면, 남아 있는 따뜻함을(를) 어떻게 바라보게 될까요?"
+277,reflection,内省,Reflection,反思,성찰,あなたは自分への厳しさを事実として見ていますか それとも解釈として見ていますか,"Are you seeing your harshness toward yourself as fact, or as interpretation?",你看到的你对自己的苛刻，是事实，还是一种解释？,"당신은 자신에게 향한 엄격함을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+278,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,今のあなたが正直に感じる別れは何ですか,What does parting honestly feel like to you right now?,此刻，你诚实地感受到的离别是什么？,지금의 당신이 솔직하게 느끼는 이별은(는) 무엇인가요?
+279,silence,沈黙,Silence,沉默,침묵,あなたは空白を感じていますか それとも見過ごしていますか,"Are you sensing emptiness, or passing it by?",你是在感受空白，还是正在把它忽略过去？,"당신은 공백을(를) 느끼고 있나요, 아니면 스쳐 지나가고 있나요?"
+280,identity,自己,Identity,自我,자기,今日のあなたにとって背負っている役割はどんな存在ですか,What kind of presence is the role you carry to you today?,今天，对你来说，你所背负的角色是怎样的存在？,오늘 당신에게 당신이 짊어진 역할은(는) 어떤 존재인가요?
+281,existence,存在,Existence,存在,존재,あなたの心は本当の望みに何を求めていますか,What is your heart asking of your true desire?,你的心向你真正的愿望在寻求什么？,당신의 마음은 당신의 진정한 바람에 무엇을 바라고 있나요?
+282,fear,恐れ,Fear,恐惧,두려움,今のあなたは人の期待にどんな名前をつけますか,What name would you give to other people's expectations right now?,此刻，你会给他人的期待取什么名字？,지금의 당신은 타인의 기대에 어떤 이름을 붙이고 싶나요?
+283,release,手放す,Release,放下,놓아줌,あなたは後悔を誰の視線で見ていますか,Through whose eyes are you seeing regret?,你正透过谁的目光看着后悔？,당신은 후회을(를) 누구의 시선으로 보고 있나요?
+284,hope,希望,Hope,希望,희망,もし静かに座るならやり直す力は何を語りそうですか,"If you sat quietly, what might the strength to begin again say?",如果你安静坐下，重新开始的力量似乎会说些什么？,"조용히 앉아 있다면, 다시 시작할 힘은(는) 무엇을 말할 것 같나요?"
+285,relationship,関係,Relationship,关系,관계,あなたの中に残っている距離を置くべき関係の灯は何ですか,What small lamp of a relationship that needs distance still remains within you?,在你心里，仍然留着怎样一盏关于需要保持距离的关系的灯？,당신 안에는 아직도 거리를 두어야 할 관계에 관한 어떤 작은 등불이 남아 있나요?
+286,gratitude,感謝,Gratitude,感恩,감사,今あなたにとって小さな幸せとは何ですか,What is a small happiness to you right now?,此刻，对你来说，微小的幸福是什么？,지금 당신에게 작은 행복은(는) 무엇인가요?
+287,reflection,内省,Reflection,反思,성찰,今日のあなたは疲れにどう向き合いますか,How are you facing your fatigue today?,今天，你要如何面对你的疲惫？,오늘 당신은 피로에 어떻게 마주하나요?
+288,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは失った人から何を学んでいますか,What is the person you lost teaching you?,你失去的人正在教会你什么？,잃은 사람은(는) 당신에게 무엇을 가르치고 있나요?
+289,silence,沈黙,Silence,沉默,침묵,今のあなたに必要な一歩手前の答えは何ですか,What kind of the answer just before words do you need right now?,此刻，你需要怎样的话语之前的答案？,지금의 당신에게 필요한 말이 되기 직전의 답은(는) 무엇인가요?
+290,identity,自己,Identity,自我,자기,あなたの中で静かに浮かぶ変わりたい部分は何ですか,What quietly rises within you when you think of the part of you that wants to change?,想到你想改变的那一部分时，在你心里静静浮现的是什么？,"변하고 싶은 부분을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+291,existence,存在,Existence,存在,존재,もし少し立ち止まるなら心の静けさをどう見ますか,"If you paused for a moment, how would you look at the quietness of your heart?",如果你稍微停下来，会如何看待你内心的宁静？,"잠시 멈춘다면, 마음의 고요을(를) 어떻게 바라보게 될까요?"
+292,fear,恐れ,Fear,恐惧,두려움,あなたは失敗を事実として見ていますか それとも解釈として見ていますか,"Are you seeing failure as fact, or as interpretation?",你看到的失败，是事实，还是一种解释？,"당신은 실패을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+293,release,手放す,Release,放下,놓아줌,今のあなたが正直に感じる怒りは何ですか,What does anger honestly feel like to you right now?,此刻，你诚实地感受到的愤怒是什么？,지금의 당신이 솔직하게 느끼는 분노은(는) 무엇인가요?
+294,hope,希望,Hope,希望,희망,あなたは救いを抱えていますか それとも迎え入れ始めていますか,"Are you carrying relief, or beginning to welcome it?",你是在背负着救赎，还是开始迎接它？,"당신은 구원을(를) 짊어지고 있나요, 아니면 받아들이기 시작하고 있나요?"
+295,relationship,関係,Relationship,关系,관계,今日のあなたにとって言えなかった言葉はどんな存在ですか,What kind of presence is the words you could not say to you today?,今天，对你来说，你没能说出口的话是怎样的存在？,오늘 당신에게 말하지 못한 말은(는) 어떤 존재인가요?
+296,gratitude,感謝,Gratitude,感恩,감사,あなたの心は支えに何を求めていますか,What is your heart asking of the support that holds you up?,你的心向支撑你的力量在寻求什么？,당신의 마음은 당신을 지탱하는 것에 무엇을 바라고 있나요?
+297,reflection,内省,Reflection,反思,성찰,今のあなたは本音にどんな名前をつけますか,What name would you give to your true feelings right now?,此刻，你会给你真实的心声取什么名字？,지금의 당신은 본심에 어떤 이름을 붙이고 싶나요?
+298,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは言えなかった感謝を誰の視線で見ていますか,Through whose eyes are you seeing the gratitude you could not say?,你正透过谁的目光看着没能说出口的感谢？,당신은 말하지 못한 감사을(를) 누구의 시선으로 보고 있나요?
+299,silence,沈黙,Silence,沉默,침묵,もし静かに座るなら語らないことは何を語りそうですか,"If you sat quietly, what might what remains unsaid say?",如果你安静坐下，没有说出口的东西似乎会说些什么？,"조용히 앉아 있다면, 말하지 않는 것은(는) 무엇을 말할 것 같나요?"
+300,identity,自己,Identity,自我,자기,あなたの中に残っている守ってきた価値観の灯は何ですか,What small lamp of the values you have protected still remains within you?,在你心里，仍然留着怎样一盏关于你一直守护的价值观的灯？,당신 안에는 아직도 지켜 온 가치관에 관한 어떤 작은 등불이 남아 있나요?
+301,existence,存在,Existence,存在,존재,今あなたにとって進む方向とは何ですか,What is the direction you are heading to you right now?,此刻，对你来说，你前行的方向是什么？,지금 당신에게 나아갈 방향은(는) 무엇인가요?
+302,fear,恐れ,Fear,恐惧,두려움,今日のあなたは孤独にどう向き合いますか,How are you facing loneliness today?,今天，你要如何面对孤独？,오늘 당신은 외로움에 어떻게 마주하나요?
+303,release,手放す,Release,放下,놓아줌,あなたは言い訳から何を学んでいますか,What is an excuse teaching you?,借口正在教会你什么？,변명은(는) 당신에게 무엇을 가르치고 있나요?
+304,hope,希望,Hope,希望,희망,今のあなたに必要な明日は何ですか,What kind of tomorrow do you need right now?,此刻，你需要怎样的明天？,지금의 당신에게 필요한 내일은(는) 무엇인가요?
+305,relationship,関係,Relationship,关系,관계,あなたの中で静かに浮かぶ受け取った優しさは何ですか,What quietly comes to mind when you think of the kindness you received?,想到你收到的温柔时，在你心里静静浮现的是什么？,"받았던 다정함을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+306,gratitude,感謝,Gratitude,感恩,감사,もし少し立ち止まるなら平凡な奇跡をどう見ますか,"If you paused for a moment, how would you look at an ordinary miracle?",如果你稍微停下来，会如何看待平凡的奇迹？,"잠시 멈춘다면, 평범한 기적을(를) 어떻게 바라보게 될까요?"
+307,reflection,内省,Reflection,反思,성찰,あなたは選択を事実として見ていますか それとも解釈として見ていますか,"Are you seeing a choice as fact, or as interpretation?",你看到的选择，是事实，还是一种解释？,"당신은 선택을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+308,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,今のあなたが正直に感じる限りある時間は何ですか,What does limited time honestly feel like to you right now?,此刻，你诚实地感受到的有限的时间是什么？,지금의 당신이 솔직하게 느끼는 유한한 시간은(는) 무엇인가요?
+309,silence,沈黙,Silence,沉默,침묵,あなたは待つことを感じていますか それとも見過ごしていますか,"Are you sensing waiting, or passing it by?",你是在感受等待，还是正在把它忽略过去？,"당신은 기다림을(를) 느끼고 있나요, 아니면 스쳐 지나가고 있나요?"
+310,identity,自己,Identity,自我,자기,今日のあなたにとって譲れないものはどんな存在ですか,What kind of presence is what you cannot compromise on to you today?,今天，对你来说，你无法让步的东西是怎样的存在？,오늘 당신에게 양보할 수 없는 것은(는) 어떤 존재인가요?
+311,existence,存在,Existence,存在,존재,あなたの心は今日という時間に何を求めていますか,What is your heart asking of this day?,你的心向今天这段时间在寻求什么？,당신의 마음은 오늘이라는 시간에 무엇을 바라고 있나요?
+312,fear,恐れ,Fear,恐惧,두려움,今のあなたは変化にどんな名前をつけますか,What name would you give to change right now?,此刻，你会给变化取什么名字？,지금의 당신은 변화에 어떤 이름을 붙이고 싶나요?
+313,release,手放す,Release,放下,놓아줌,あなたは終わらせるべきことを誰の視線で見ていますか,Through whose eyes are you seeing what needs to come to an end?,你正透过谁的目光看着应该结束的事？,당신은 끝내야 할 것을(를) 누구의 시선으로 보고 있나요?
+314,hope,希望,Hope,希望,희망,もし静かに座るなら続ける理由は何を語りそうですか,"If you sat quietly, what might your reason to continue say?",如果你安静坐下，继续下去的理由似乎会说些什么？,"조용히 앉아 있다면, 계속할 이유은(는) 무엇을 말할 것 같나요?"
+315,relationship,関係,Relationship,关系,관계,あなたの中に残っている残っているつながりの灯は何ですか,What small lamp of the connection that still remains still remains within you?,在你心里，仍然留着怎样一盏关于仍然留下的连结的灯？,당신 안에는 아직도 아직 남아 있는 연결에 관한 어떤 작은 등불이 남아 있나요?
+316,gratitude,感謝,Gratitude,感恩,감사,今あなたにとって今あるものとは何ですか,What is what is already here to you right now?,此刻，对你来说，此刻已经拥有的东西是什么？,지금 당신에게 지금 이미 있는 것은(는) 무엇인가요?
+317,reflection,内省,Reflection,反思,성찰,今日のあなたは気づいていない思いにどう向き合いますか,How are you facing a feeling you have not yet noticed today?,今天，你要如何面对你尚未察觉的心意？,오늘 당신은 아직 알아차리지 못한 마음에 어떻게 마주하나요?
+318,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたはいのちから何を学んでいますか,What is life itself teaching you?,生命正在教会你什么？,생명은(는) 당신에게 무엇을 가르치고 있나요?
+319,silence,沈黙,Silence,沉默,침묵,今のあなたに必要な見ることは何ですか,What kind of simply seeing do you need right now?,此刻，你需要怎样的只是看见？,지금의 당신에게 필요한 그저 보는 것은(는) 무엇인가요?
+320,identity,自己,Identity,自我,자기,あなたの中で静かに浮かぶ人生の軸は何ですか,What quietly rises within you when you think of the axis of your life?,想到你人生的轴心时，在你心里静静浮现的是什么？,"삶의 축을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+321,existence,存在,Existence,存在,존재,もし少し立ち止まるなら本当に大切なものをどう見ますか,"If you paused for a moment, how would you look at what truly matters?",如果你稍微停下来，会如何看待真正重要的东西？,"잠시 멈춘다면, 진정으로 중요한 것을(를) 어떻게 바라보게 될까요?"
+322,fear,恐れ,Fear,恐惧,두려움,あなたは恐れを事実として見ていますか それとも解釈として見ていますか,"Are you seeing fear as fact, or as interpretation?",你看到的恐惧，是事实，还是一种解释？,"당신은 두려움을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+323,release,手放す,Release,放下,놓아줌,今のあなたが正直に感じる手放せないものは何ですか,What does what you cannot let go of honestly feel like to you right now?,此刻，你诚实地感受到的你放不下的东西是什么？,지금의 당신이 솔직하게 느끼는 놓지 못하는 것은(는) 무엇인가요?
+324,hope,希望,Hope,希望,희망,あなたは希望を抱えていますか それとも迎え入れ始めていますか,"Are you carrying hope, or beginning to welcome it?",你是在背负着希望，还是开始迎接它？,"당신은 희망을(를) 짊어지고 있나요, 아니면 받아들이기 시작하고 있나요?"
+325,relationship,関係,Relationship,关系,관계,今日のあなたにとって思い出す人はどんな存在ですか,What kind of presence is the person who comes to mind to you today?,今天，对你来说，你想起的那个人是怎样的存在？,오늘 당신에게 문득 떠오르는 사람은(는) 어떤 존재인가요?
+326,gratitude,感謝,Gratitude,感恩,감사,あなたの心は感謝できることに何を求めていますか,What is your heart asking of what you can be grateful for?,你的心向你可以感恩的事在寻求什么？,당신의 마음은 감사할 수 있는 것에 무엇을 바라고 있나요?
+327,reflection,内省,Reflection,反思,성찰,今のあなたは今の感情にどんな名前をつけますか,What name would you give to your feelings right now right now?,此刻，你会给你此刻的感受取什么名字？,지금의 당신은 지금의 감정에 어떤 이름을 붙이고 싶나요?
+328,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは死を誰の視線で見ていますか,Through whose eyes are you seeing death?,你正透过谁的目光看着死亡？,당신은 죽음을(를) 누구의 시선으로 보고 있나요?
+329,silence,沈黙,Silence,沉默,침묵,もし静かに座るなら呼吸は何を語りそうですか,"If you sat quietly, what might your breath say?",如果你安静坐下，呼吸似乎会说些什么？,"조용히 앉아 있다면, 호흡은(는) 무엇을 말할 것 같나요?"
+330,identity,自己,Identity,自我,자기,あなたの中に残っているなりつつある自分の灯は何ですか,What small lamp of the person you are becoming still remains within you?,在你心里，仍然留着怎样一盏关于你正在成为的自己的灯？,당신 안에는 아직도 되어 가는 나에 관한 어떤 작은 등불이 남아 있나요?
+331,existence,存在,Existence,存在,존재,今あなたにとって自分の人生とは何ですか,What is your own life to you right now?,此刻，对你来说，你自己的人生是什么？,지금 당신에게 자기 자신의 삶은(는) 무엇인가요?
+332,fear,恐れ,Fear,恐惧,두려움,今日のあなたは不安にどう向き合いますか,How are you facing anxiety today?,今天，你要如何面对不安？,오늘 당신은 불안에 어떻게 마주하나요?
+333,release,手放す,Release,放下,놓아줌,あなたは執着から何を学んでいますか,What is attachment teaching you?,执着正在教会你什么？,집착은(는) 당신에게 무엇을 가르치고 있나요?
+334,hope,希望,Hope,希望,희망,今のあなたに必要な小さな光は何ですか,What kind of a small light do you need right now?,此刻，你需要怎样的微小的光？,지금의 당신에게 필요한 작은 빛은(는) 무엇인가요?
+335,relationship,関係,Relationship,关系,관계,あなたの中で静かに浮かぶ感謝したい人は誰ですか,Who quietly comes to mind when you think of the person you want to thank?,当你想到你想感谢的人时，在你心里静静浮现的是谁？,"감사하고 싶은 사람을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 이는 누구인가요?"
+336,gratitude,感謝,Gratitude,感恩,감사,もし少し立ち止まるなら今日の恵みをどう見ますか,"If you paused for a moment, how would you look at today's blessing?",如果你稍微停下来，会如何看待今天的恩惠？,"잠시 멈춘다면, 오늘의 은혜을(를) 어떻게 바라보게 될까요?"
+337,reflection,内省,Reflection,反思,성찰,あなたは沈黙を事実として見ていますか それとも解釈として見ていますか,"Are you seeing silence as fact, or as interpretation?",你看到的沉默，是事实，还是一种解释？,"당신은 침묵을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+338,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,今のあなたが正直に感じる最後の日は何ですか,What does your last day honestly feel like to you right now?,此刻，你诚实地感受到的最后一天是什么？,지금의 당신이 솔직하게 느끼는 마지막 날은(는) 무엇인가요?
+339,silence,沈黙,Silence,沉默,침묵,あなたは静けさを感じていますか それとも見過ごしていますか,"Are you sensing stillness, or passing it by?",你是在感受宁静，还是正在把它忽略过去？,"당신은 고요을(를) 느끼고 있나요, 아니면 스쳐 지나가고 있나요?"
+340,identity,自己,Identity,自我,자기,今日のあなたにとって本当の自分はどんな存在ですか,What kind of presence is your true self to you today?,今天，对你来说，真正的自己是怎样的存在？,오늘 당신에게 진짜 나은(는) 어떤 존재인가요?
+341,existence,存在,Existence,存在,존재,あなたの心は生きる理由に何を求めていますか,What is your heart asking of your reason for living?,你的心向你活着的理由在寻求什么？,당신의 마음은 살아가는 이유에 무엇을 바라고 있나요?
+342,fear,恐れ,Fear,恐惧,두려움,今のあなたは避けていることにどんな名前をつけますか,What name would you give to what you are avoiding right now?,此刻，你会给你正在回避的事取什么名字？,지금의 당신은 당신이 피하고 있는 것에 어떤 이름을 붙이고 싶나요?
+343,release,手放す,Release,放下,놓아줌,あなたは古い役割を誰の視線で見ていますか,Through whose eyes are you seeing an old role?,你正透过谁的目光看着旧有的角色？,당신은 오래된 역할을(를) 누구의 시선으로 보고 있나요?
+344,hope,希望,Hope,希望,희망,もし静かに座るなら次の一歩は何を語りそうですか,"If you sat quietly, what might the next step say?",如果你安静坐下，下一步似乎会说些什么？,"조용히 앉아 있다면, 다음 한 걸음은(는) 무엇을 말할 것 같나요?"
+345,relationship,関係,Relationship,关系,관계,あなたの中に残っている許したい人の灯は何ですか,What small lamp of the person you want to forgive still remains within you?,在你心里，仍然留着怎样一盏关于你想原谅的人的灯？,당신 안에는 아직도 용서하고 싶은 사람에 관한 어떤 작은 등불이 남아 있나요?
+346,gratitude,感謝,Gratitude,感恩,감사,今あなたにとって受け取った助けとは何ですか,What is the help you received to you right now?,此刻，对你来说，你得到的帮助是什么？,지금 당신에게 받은 도움은(는) 무엇인가요?
+347,reflection,内省,Reflection,反思,성찰,今日のあなたは心の声にどう向き合いますか,How are you facing the voice of your heart today?,今天，你要如何面对你内心的声音？,오늘 당신은 마음의 소리에 어떻게 마주하나요?
+348,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは残したいものから何を学んでいますか,What is what you want to leave behind teaching you?,你想留下的东西正在教会你什么？,남기고 싶은 것은(는) 당신에게 무엇을 가르치고 있나요?
+349,silence,沈黙,Silence,沉默,침묵,今のあなたに必要な今ここは何ですか,What kind of the here and now do you need right now?,此刻，你需要怎样的此时此地？,지금의 당신에게 필요한 지금 여기은(는) 무엇인가요?
+350,identity,自己,Identity,自我,자기,あなたの中で静かに浮かぶ信じているものは何ですか,What quietly rises within you when you think of what you believe in?,想到你所相信的东西时，在你心里静静浮现的是什么？,"당신이 믿는 것을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
+351,existence,存在,Existence,存在,존재,もし少し立ち止まるなら今いる場所をどう見ますか,"If you paused for a moment, how would you look at where you stand now?",如果你稍微停下来，会如何看待你此刻所站的位置？,"잠시 멈춘다면, 지금 당신이 서 있는 자리을(를) 어떻게 바라보게 될까요?"
+352,fear,恐れ,Fear,恐惧,두려움,あなたは失うことを事実として見ていますか それとも解釈として見ていますか,"Are you seeing the possibility of loss as fact, or as interpretation?",你看到的失去这件事，是事实，还是一种解释？,"당신은 잃는 것을(를) 사실로 보고 있나요, 아니면 해석으로 보고 있나요?"
+353,release,手放す,Release,放下,놓아줌,今のあなたが正直に感じる重荷は何ですか,What does a burden honestly feel like to you right now?,此刻，你诚实地感受到的负担是什么？,지금의 당신이 솔직하게 느끼는 짐은(는) 무엇인가요?
+354,hope,希望,Hope,希望,희망,あなたは信じたい未来を抱えていますか それとも迎え入れ始めていますか,"Are you carrying the future you want to believe in, or beginning to welcome it?",你是在背负着你想相信的未来，还是开始迎接它？,"당신은 믿고 싶은 미래을(를) 짊어지고 있나요, 아니면 받아들이기 시작하고 있나요?"
+355,relationship,関係,Relationship,关系,관계,今日のあなたにとって守りたい人はどんな存在ですか,What kind of presence is the person you want to protect to you today?,今天，对你来说，你想守护的人是怎样的存在？,오늘 당신에게 지키고 싶은 사람은(는) 어떤 존재인가요?
+356,gratitude,感謝,Gratitude,感恩,감사,あなたの心は残っている温かさに何を求めていますか,What is your heart asking of the warmth that still remains?,你的心向仍然留存的温暖在寻求什么？,당신의 마음은 남아 있는 따뜻함에 무엇을 바라고 있나요?
+357,reflection,内省,Reflection,反思,성찰,今のあなたは自分への厳しさにどんな名前をつけますか,What name would you give to your harshness toward yourself right now?,此刻，你会给你对自己的苛刻取什么名字？,지금의 당신은 자신에게 향한 엄격함에 어떤 이름을 붙이고 싶나요?
+358,death,死と別れ,Death & Loss,死亡与离别,죽음과 이별,あなたは別れを誰の視線で見ていますか,Through whose eyes are you seeing parting?,你正透过谁的目光看着离别？,당신은 이별을(를) 누구의 시선으로 보고 있나요?
+359,silence,沈黙,Silence,沉默,침묵,もし静かに座るなら空白は何を語りそうですか,"If you sat quietly, what might emptiness say?",如果你安静坐下，空白似乎会说些什么？,"조용히 앉아 있다면, 공백은(는) 무엇을 말할 것 같나요?"
+360,identity,自己,Identity,自我,자기,あなたの中に残っている背負っている役割の灯は何ですか,What small lamp of the role you carry still remains within you?,在你心里，仍然留着怎样一盏关于你所背负的角色的灯？,당신 안에는 아직도 당신이 짊어진 역할에 관한 어떤 작은 등불이 남아 있나요?
+361,existence,存在,Existence,存在,존재,今あなたにとって本当の望みとは何ですか,What is your true desire to you right now?,此刻，对你来说，你真正的愿望是什么？,지금 당신에게 당신의 진정한 바람은(는) 무엇인가요?
+362,fear,恐れ,Fear,恐惧,두려움,今日のあなたは人の期待にどう向き合いますか,How are you facing other people's expectations today?,今天，你要如何面对他人的期待？,오늘 당신은 타인의 기대에 어떻게 마주하나요?
+363,release,手放す,Release,放下,놓아줌,あなたは後悔から何を学んでいますか,What is regret teaching you?,后悔正在教会你什么？,후회은(는) 당신에게 무엇을 가르치고 있나요?
+364,hope,希望,Hope,希望,희망,今のあなたに必要なやり直す力は何ですか,What kind of the strength to begin again do you need right now?,此刻，你需要怎样的重新开始的力量？,지금의 당신에게 필요한 다시 시작할 힘은(는) 무엇인가요?
+365,relationship,関係,Relationship,关系,관계,あなたの中で静かに浮かぶ距離を置くべき関係は何ですか,What quietly comes to mind when you think of a relationship that needs distance?,想到需要保持距离的关系时，在你心里静静浮现的是什么？,"거리를 두어야 할 관계을(를) 떠올릴 때, 당신 안에 조용히 떠오르는 것은 무엇인가요?"
