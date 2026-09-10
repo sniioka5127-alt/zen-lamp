@@ -1,0 +1,1 @@
+Implementation prepared. LinkedIn URL and Google Search Console indexed-state verification remain external gates.
