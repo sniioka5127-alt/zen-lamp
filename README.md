@@ -119,11 +119,24 @@ Millions of lamps can illuminate humanity.
 
 ---
 
-## Creator
+## Founder / Canonical Identity
 
-ZEN LAMP was initiated by a Zen Buddhist monk in Japan who believes that questions can transform society.
+**新岡 昌心 / SHOSHIN / Niioka Shoshin**
 
-The project combines contemplative tradition with modern AI technology.
+Founder of **ZEN LAMP PROJECT**, developing human-agency tools and research around human questioning, memory governance, context transfer, multi-model comparison, and human judgment.
+
+Canonical profile:
+https://zen-lamp.com/founder/
+
+Public profiles:
+- X: https://x.com/SHOSHIN_TENRYU
+- Reddit: https://www.reddit.com/user/Street_Witness1328/
+- GitHub: https://github.com/sniioka5127-alt
+
+Related public organizations/projects:
+- ZEN LAMP PROJECT: https://zen-lamp.com/
+- 和光山吉祥寺やすらぎ観音堂: https://wakouzan-kichijoji.com/
+- 株式会社 天龍葬祭: https://tenryusosai.com/
 
 ---
 
