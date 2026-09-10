@@ -125,6 +125,12 @@ Millions of lamps can illuminate humanity.
 
 Confirmed Japanese reading: **にいおか しょうしん**.
 
+Romanized-name normalization:
+- Preferred: **Niioka Shoshin**
+- Alternate / Western order: **Shoshin Niioka**
+
+Both romanized forms refer to the same canonical Person. `Shoshin Niioka` is retained because it is already used by a public profile and should not be resolved as a separate person.
+
 Public roles:
 - Head priest, **和光山吉祥寺やすらぎ観音堂**
 - Founder, **ZEN LAMP PROJECT**
