@@ -121,7 +121,9 @@ Millions of lamps can illuminate humanity.
 
 ## Founder / Canonical Identity
 
-**新岡 昌心 / SHOSHIN / Niioka Shoshin**
+**新岡 昌心 / にいおか しょうしん / SHOSHIN / Niioka Shoshin**
+
+Confirmed Japanese reading: **にいおか しょうしん**.
 
 Founder of **ZEN LAMP PROJECT**, developing human-agency tools and research around human questioning, memory governance, context transfer, multi-model comparison, and human judgment.
 
