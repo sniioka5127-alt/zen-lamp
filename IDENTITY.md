@@ -60,3 +60,29 @@ LinkedIn is intentionally omitted until the exact public profile URL is confirme
 ## ENTITY-03
 
 ENTITY-03 introduces reciprocal cross-site identity binding so that ZEN LAMP, 吉祥寺, and 天龍葬祭 can each refer back to the same canonical Person without collapsing the organizations into one entity.
+
+## ENTITY-04 | External Identity Closure
+
+ENTITY-04 closes the external verification loop around the canonical Person through public-profile consistency and search-engine verification.
+
+Current state:
+
+- X binding: **implemented**
+- Reddit binding: **implemented**
+- GitHub binding: **implemented**
+- LinkedIn binding: **pending exact public profile URL**
+- ZEN LAMP reciprocal identity: **implemented**
+- 吉祥寺 reciprocal identity: **implemented / production verification pending**
+- 天龍葬祭 reciprocal identity: **implemented / production verification pending**
+- Google Search Console URL inspection: **pending connected-account inspection**
+- Google recrawl/index refresh: **pending after live verification**
+
+Verification targets:
+
+- https://zen-lamp.com/
+- https://zen-lamp.com/founder/
+- https://wakouzan-kichijoji.com/
+- https://tenryusosai.com/
+- https://tenryusosai.com/company/
+
+Search engines may use this graph as one signal among many. Structured data and reciprocal links improve identity resolution but do not guarantee indexing, ranking, a Knowledge Panel, or contact from any company.
