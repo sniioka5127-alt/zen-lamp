@@ -1,1 +1,0 @@
-External Identity Closure implementation package complete; external verification gates remain.
