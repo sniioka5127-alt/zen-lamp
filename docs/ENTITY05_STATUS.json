@@ -1,0 +1,35 @@
+{
+  "phase": "ENTITY-05",
+  "title": "Google Search Entity Verification",
+  "state": "CONDITIONAL_PASS__QUERY_PROPAGATION_PENDING",
+  "verified_at_jst": "2026-09-11",
+  "canonical_person_id": "https://zen-lamp.com/founder/#person",
+  "crawl_gates": {
+    "https://zen-lamp.com/": {
+      "verdict": "PASS",
+      "last_crawl_jst": "2026-09-11T04:37:56+09:00"
+    },
+    "https://zen-lamp.com/founder/": {
+      "verdict": "PASS",
+      "last_crawl_jst": "2026-09-11T04:35:53+09:00"
+    },
+    "https://wakouzan-kichijoji.com/": {
+      "verdict": "PASS",
+      "last_crawl_jst": "2026-09-11T04:42:19+09:00"
+    },
+    "https://tenryusosai.com/": {
+      "verdict": "PENDING_API_EVIDENCE",
+      "reason": "GSC Wizard URL Inspection blocked by Google authorization scope"
+    },
+    "https://tenryusosai.com/company/": {
+      "verdict": "PENDING_API_EVIDENCE",
+      "reason": "GSC Wizard URL Inspection blocked by Google authorization scope"
+    }
+  },
+  "search_analytics_baseline": {
+    "settled_through": "2026-09-08",
+    "identity_query_result": "0 rows / 0 impressions in tested exact and regex variants on ZEN LAMP and 吉祥寺",
+    "interpretation": "pre-ENTITY-04.1 baseline, not a failure"
+  },
+  "next_gate": "post-2026-09-11 query propagation and Tenryu crawl verification"
+}
