@@ -19,11 +19,12 @@ These are distinct organizations/projects connected through the same public Pers
 
 ## Public profiles
 
+- LinkedIn: https://www.linkedin.com/in/昌心-新岡-0621a0407/
 - X: https://x.com/SHOSHIN_TENRYU
 - Reddit: https://www.reddit.com/user/Street_Witness1328/
 - GitHub: https://github.com/sniioka5127-alt
 
-LinkedIn is intentionally omitted until the exact public profile URL is confirmed.
+The LinkedIn public profile URL above was confirmed from the user's public-profile settings on 2026-09-11 JST.
 
 ## Related public entities
 
@@ -67,10 +68,10 @@ ENTITY-04 closes the external verification loop around the canonical Person thro
 
 Current state:
 
+- LinkedIn binding: **implemented / exact public URL confirmed**
 - X binding: **implemented**
 - Reddit binding: **implemented**
 - GitHub binding: **implemented**
-- LinkedIn binding: **pending exact public profile URL**
 - ZEN LAMP reciprocal identity: **implemented**
 - 吉祥寺 reciprocal identity: **implemented / production verification pending**
 - 天龍葬祭 reciprocal identity: **implemented / production verification pending**

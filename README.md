@@ -136,6 +136,7 @@ Canonical profile:
 https://zen-lamp.com/founder/
 
 Public profiles:
+- LinkedIn: https://www.linkedin.com/in/昌心-新岡-0621a0407/
 - X: https://x.com/SHOSHIN_TENRYU
 - Reddit: https://www.reddit.com/user/Street_Witness1328/
 - GitHub: https://github.com/sniioka5127-alt
