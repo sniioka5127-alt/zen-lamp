@@ -1,0 +1,22 @@
+{
+  "phase": "ENTITY-04",
+  "title": "External Identity Closure",
+  "canonical_person_id": "https://zen-lamp.com/founder/#person",
+  "identity": {
+    "name": "新岡 昌心",
+    "reading": "にいおか しょうしん",
+    "romanized": "Niioka Shoshin",
+    "alias": "SHOSHIN"
+  },
+  "profiles": {
+    "x": {"status": "implemented", "url": "https://x.com/SHOSHIN_TENRYU"},
+    "reddit": {"status": "implemented", "url": "https://www.reddit.com/user/Street_Witness1328/"},
+    "github": {"status": "implemented", "url": "https://github.com/sniioka5127-alt"},
+    "linkedin": {"status": "pending_exact_public_url", "url": null}
+  },
+  "verification": {
+    "production": "pending_external_verification",
+    "search_console": "pending_connected_account_inspection",
+    "google_index_refresh": "pending"
+  }
+}
