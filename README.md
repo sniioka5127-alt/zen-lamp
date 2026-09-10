@@ -125,7 +125,12 @@ Millions of lamps can illuminate humanity.
 
 Confirmed Japanese reading: **にいおか しょうしん**.
 
-Founder of **ZEN LAMP PROJECT**, developing human-agency tools and research around human questioning, memory governance, context transfer, multi-model comparison, and human judgment.
+Public roles:
+- Head priest, **和光山吉祥寺やすらぎ観音堂**
+- Founder, **ZEN LAMP PROJECT**
+- Representative Director, **株式会社 天龍葬祭**
+
+ZEN LAMP PROJECT develops human-agency tools and research around human questioning, memory governance, context transfer, multi-model comparison, and human judgment.
 
 Canonical profile:
 https://zen-lamp.com/founder/
@@ -139,6 +144,8 @@ Related public organizations/projects:
 - ZEN LAMP PROJECT: https://zen-lamp.com/
 - 和光山吉祥寺やすらぎ観音堂: https://wakouzan-kichijoji.com/
 - 株式会社 天龍葬祭: https://tenryusosai.com/
+
+See [IDENTITY.md](IDENTITY.md) for the canonical cross-site identity map.
 
 ---
 
