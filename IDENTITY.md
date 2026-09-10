@@ -4,10 +4,13 @@
 
 - Name: **新岡 昌心**
 - Japanese reading: **にいおか しょうしん**
-- Romanized public name: **Niioka Shoshin**
+- Preferred romanized public name: **Niioka Shoshin**
+- Alternate romanized order: **Shoshin Niioka**
 - Public alias: **SHOSHIN**
 - Canonical profile: https://zen-lamp.com/founder/
 - Canonical semantic identifier: `https://zen-lamp.com/founder/#person`
+
+The preferred romanized form is **Niioka Shoshin** (family name first). **Shoshin Niioka** is retained as an alternate spelling/order because it is already used on the public GitHub profile and must resolve to the same Person entity.
 
 ## Public roles
 
@@ -53,10 +56,13 @@ The LinkedIn public profile URL above was confirmed from the user's public-profi
 
 1. Use the exact canonical Japanese name `新岡 昌心`.
 2. Use the confirmed reading `にいおか しょうしん` where pronunciation is useful.
-3. Use `Niioka Shoshin` and `SHOSHIN` as public aliases, not as separate people.
-4. Use the same Person `@id` across public structured-data graphs.
-5. Use `sameAs` only for profiles that represent the same person; do not use it to connect different organizations.
-6. Keep the final public roles explicit so search engines, researchers, and human reviewers can resolve the identity consistently.
+3. Use `Niioka Shoshin` as the preferred romanized public name.
+4. Treat `Shoshin Niioka` as an alternate romanized order of the same person, not a separate identity.
+5. Use `SHOSHIN` as a public alias, not as a separate person.
+6. Include both `Niioka Shoshin` and `Shoshin Niioka` in Person `alternateName` where structured data is maintained.
+7. Use the same Person `@id` across public structured-data graphs.
+8. Use `sameAs` only for profiles that represent the same person; do not use it to connect different organizations.
+9. Keep the final public roles explicit so search engines, researchers, and human reviewers can resolve the identity consistently.
 
 ## ENTITY-03
 
@@ -87,3 +93,12 @@ Verification targets:
 - https://tenryusosai.com/company/
 
 Search engines may use this graph as one signal among many. Structured data and reciprocal links improve identity resolution but do not guarantee indexing, ranking, a Knowledge Panel, or contact from any company.
+
+## ENTITY-04.1 | Romanized Name Normalization
+
+ENTITY-04.1 normalizes the two public romanization orders already in use:
+
+- **Preferred:** `Niioka Shoshin`
+- **Alternate:** `Shoshin Niioka`
+
+Both must resolve to the same canonical Person `https://zen-lamp.com/founder/#person`. The alternate form exists to absorb Western-order profile displays such as the current GitHub display name without forcing every platform to be renamed immediately.
