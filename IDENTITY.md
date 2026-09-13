@@ -37,6 +37,21 @@ The LinkedIn public profile URL above was confirmed from the user's public-profi
 - Semantic ID: `https://zen-lamp.com/#organization`
 - Relationship: founder → canonical Person
 
+### HIRAKU
+
+- Canonical name: **HIRAKU**
+- Display name: **SHOSHIN ひらく（HIRAKU）**
+- Alternate names: **SHOSHIN ひらく**, **SHOSHIN HIRAKU**, **HIRAKU by ZEN LAMP PROJECT**
+- URL: https://zen-lamp.com/hiraku/
+- Semantic ID: `https://zen-lamp.com/hiraku/#application`
+- Type: `WebApplication`
+- Creator: canonical Person `https://zen-lamp.com/founder/#person`
+- Parent project: ZEN LAMP PROJECT `https://zen-lamp.com/#organization`
+- Relationship: creator → canonical Person; isPartOf / parent project → ZEN LAMP PROJECT
+- Disambiguation: this entity refers specifically to the HIRAKU / SHOSHIN ひらく Discussion Partner and Human Judgment Workspace developed within ZEN LAMP PROJECT. It must not be conflated with unrelated organizations, university programs, companies, or products named HIRAKU or Hiraku.
+
+HIRAKU is a distinct Product/Application entity. It must not be represented as `sameAs` ZEN LAMP PROJECT or as `sameAs` the canonical Person.
+
 ### 和光山吉祥寺やすらぎ観音堂
 
 - URL: https://wakouzan-kichijoji.com/
@@ -63,6 +78,8 @@ The LinkedIn public profile URL above was confirmed from the user's public-profi
 7. Use the same Person `@id` across public structured-data graphs.
 8. Use `sameAs` only for profiles that represent the same person; do not use it to connect different organizations.
 9. Keep the final public roles explicit so search engines, researchers, and human reviewers can resolve the identity consistently.
+10. Resolve `HIRAKU`, `SHOSHIN ひらく`, and `SHOSHIN HIRAKU` to the same canonical Product/Application entity `https://zen-lamp.com/hiraku/#application`.
+11. Represent HIRAKU's creator with `https://zen-lamp.com/founder/#person` and its parent project with `https://zen-lamp.com/#organization`; do not collapse those distinct entities with `sameAs`.
 
 ## ENTITY-03
 
@@ -102,3 +119,16 @@ ENTITY-04.1 normalizes the two public romanization orders already in use:
 - **Alternate:** `Shoshin Niioka`
 
 Both must resolve to the same canonical Person `https://zen-lamp.com/founder/#person`. The alternate form exists to absorb Western-order profile displays such as the current GitHub display name without forcing every platform to be renamed immediately.
+
+## ENTITY-07C | HIRAKU GitHub Cross-Link
+
+ENTITY-07C registers HIRAKU as a canonical Product/Application entity in the public GitHub identity graph and cross-links it to both the canonical Person and ZEN LAMP PROJECT.
+
+Canonical graph:
+
+- HIRAKU Product/Application: `https://zen-lamp.com/hiraku/#application`
+- Creator: `https://zen-lamp.com/founder/#person`
+- Parent project: `https://zen-lamp.com/#organization`
+- Canonical product page: https://zen-lamp.com/hiraku/
+
+This relationship is intended to improve entity discovery and disambiguation across search engines and AI systems. It does not guarantee indexing or ranking.
