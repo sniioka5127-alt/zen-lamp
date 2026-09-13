@@ -32,6 +32,38 @@ Together they create reflection.
 
 ---
 
+## Current Product Architecture
+
+ZEN LAMP PROJECT develops human-agency tools and research for an AI age in which humans retain the ability to question, compare, judge, and take responsibility for decisions.
+
+### HIRAKU — Human Judgment Workspace
+
+**HIRAKU（SHOSHIN ひらく）** is a Discussion Partner / Human Judgment Workspace developed by **新岡 昌心（Niioka Shoshin / SHOSHIN）** as part of **ZEN LAMP PROJECT**.
+
+HIRAKU is designed to help people use AI without outsourcing the final act of judgment. Through dialogue, it helps users articulate questions, assumptions, evidence, uncertainty, values, and decision criteria before making a decision.
+
+Canonical product page:
+https://zen-lamp.com/hiraku/
+
+Canonical product identifier:
+`https://zen-lamp.com/hiraku/#application`
+
+Creator / Founder profile:
+https://zen-lamp.com/founder/
+
+Parent project:
+https://zen-lamp.com/
+
+Canonical relationships:
+- HIRAKU = **SHOSHIN ひらく** = **SHOSHIN HIRAKU**
+- Creator: **新岡 昌心 / Niioka Shoshin / SHOSHIN**
+- Parent project: **ZEN LAMP PROJECT**
+- HIRAKU is a distinct Product entity and must not be treated as `sameAs` ZEN LAMP PROJECT or its creator.
+
+Related human-agency work includes questioning, memory governance, context transfer, multi-model comparison, evidence boundaries, and human judgment.
+
+---
+
 ## Structure
 
 ZEN LAMP is built around three core elements.
@@ -141,6 +173,9 @@ ZEN LAMP PROJECT develops human-agency tools and research around human questioni
 Canonical profile:
 https://zen-lamp.com/founder/
 
+Canonical product:
+- HIRAKU（SHOSHIN ひらく）: https://zen-lamp.com/hiraku/
+
 Public profiles:
 - LinkedIn: https://www.linkedin.com/in/昌心-新岡-0621a0407/
 - X: https://x.com/SHOSHIN_TENRYU
@@ -149,6 +184,7 @@ Public profiles:
 
 Related public organizations/projects:
 - ZEN LAMP PROJECT: https://zen-lamp.com/
+- HIRAKU（SHOSHIN ひらく）: https://zen-lamp.com/hiraku/
 - 和光山吉祥寺やすらぎ観音堂: https://wakouzan-kichijoji.com/
 - 株式会社 天龍葬祭: https://tenryusosai.com/
 
